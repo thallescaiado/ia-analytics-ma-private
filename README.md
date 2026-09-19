@@ -64,8 +64,6 @@ Como estou no início da minha jornada na programação, utilizei a Inteligênci
 ### 📊 Nota sobre a Base de Dados Fictícia & Compliance
 Para fins de demonstração, deixei disponível neste repositório o arquivo `transacoes_ma_ficticias.csv` contendo **1.000 linhas de dados gerados artificialmente via código**. Isso permite que qualquer pessoa baixe o arquivo, abra no Excel e compare a consistência dos dados com as respostas geradas pela IA.
 
----
-
 **🔒 Segurança em Ambiente Real:** Fica o registro de que, em um cenário profissional com dados reais e confidenciais, a planilha original seria mantida 100% oculta e protegida de qualquer exposição pública utilizando um bloqueador de arquivos de nuvem (o arquivo `.gitignore` do ecossistema Git).
 
 Este projeto foi fundamental para eu praticar de forma realista:
