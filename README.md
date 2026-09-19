@@ -1,4 +1,3 @@
-<img width="1898" height="856" alt="IA Analytics M A - 1" src="https://github.com/user-attachments/assets/16b76e6d-7282-4f85-8665-36e552bd632c" />
 # 💼 Assistente de Inteligência Artificial para M&A (RAG + ChromaDB + Pandas)
 
 Este projeto consiste em um sistema de **Inteligência Artificial focado em Fusões e Aquisições (M&A)**, projetado para operar de forma 100% local, privada e offline. 
