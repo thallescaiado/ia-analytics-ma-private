@@ -28,6 +28,21 @@ Aqui está o visual da plataforma de M&A rodando localmente com o modelo Llama 3
 
 ---
 
+## 🧠 Processo de Aprendizado & Uso de IA
+
+Este projeto foi desenvolvido como um exercício prático durante o programa do **Santander em parceria com a DIO**, com o objetivo de entender os conceitos de Inteligência Artificial e bancos de dados vetoriais aplicados ao mercado de M&A.
+
+Como estou no início da minha jornada na programação, utilizei a Inteligência Artificial do Google como assistente de IA colaboradora para me guiar passo a passo na escrita do código, na resolução de erros de ambiente (como caminhos de pastas e compatibilidade de bibliotecas no Windows) e na estruturação do fluxo.
+
+Este projeto foi fundamental para eu praticar de forma realista:
+- **Lógica e Resolução de Problemas:** Aprender a ler mensagens de erro do terminal e aplicar as correções sugeridas.
+- **Engenharia de Prompts:** Entender como detalhar minhas necessidades para que a IA gerasse os códigos de apoio corretos.
+- **Arquitetura de Sistemas de IA:** Compreender na prática o funcionamento de uma estrutura RAG offline, separando o modelo de linguagem local (Llama 3.2) do banco de dados vetorial (ChromaDB).
+
+O foco principal foi ganhar familiaridade com novas tecnologias de automação através de uma postura prática e de aprendizado contínuo.
+
+---
+
 ## 📈 Funcionalidades e Engenharia de Prompts
 
 - **Análise Financeira Avançada:** Cruzamento de um histórico volumoso de transações de mercado (simulando bases de valuation de M&A), gerando relatórios de participação por setor econômico.
