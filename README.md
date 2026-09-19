@@ -53,8 +53,24 @@ O foco principal foi ganhar familiaridade com novas tecnologias de automação a
 
 ---
 
-## 🚀 Processo de Desenvolvimento & Compliance
+## 🧠 Processo de Aprendizado & Uso de IA
 
-O projeto foi construído utilizando **Engenharia de Prompts e Programação Assistida por IA**, com foco em simular o pipeline real de uma mesa de operações de M&A. 
-Por questões de conformidade e privacidade baseadas em boas práticas de mercado, a base de dados pesada e as planilhas brutas de transações foram mantidas locais através da configuração do arquivo `.gitignore`, disponibilizando publicamente apenas a arquitetura dos scripts de automação.
+Desenvolvi este projeto como um exercício prático pessoal para entender os conceitos de Inteligência Artificial e bancos de dados vetoriais aplicados ao mercado de M&A.
+
+Como estou no início da minha jornada na programação, utilizei a Inteligência Artificial como assistente colaboradora para me guiar passo a passo na escrita do código, na resolução de erros de ambiente (como caminhos de pastas e compatibilidade de bibliotecas no Windows) e na estruturação do fluxo.
+
+---
+
+### 📊 Nota sobre a Base de Dados Fictícia & Compliance
+Para fins de demonstração, deixei disponível neste repositório o arquivo `transacoes_ma_ficticias.csv` contendo **1.000 linhas de dados gerados artificialmente via código**. Isso permite que qualquer pessoa baixe o arquivo, abra no Excel e compare a consistência dos dados com as respostas geradas pela IA.
+
+---
+
+**🔒 Segurança em Ambiente Real:** Fica o registro de que, em um cenário profissional com dados reais e confidenciais, a planilha original seria mantida 100% oculta e protegida de qualquer exposição pública utilizando um bloqueador de arquivos de nuvem (o arquivo `.gitignore` do ecossistema Git).
+
+Este projeto foi fundamental para eu praticar de forma realista:
+- **Lógica e Resolução de Problemas:** Aprender a ler mensagens de erro do terminal e aplicar as corrections sugeridas.
+- **Engenharia de Prompts:** Entender como detalhar minhas necessidades para que a IA gerasse os códigos de apoio corretos.
+- **Arquitetura de Sistemas de IA:** Compreender na prática o funcionamento de uma estrutura RAG offline, separando o modelo de linguagem local (Llama 3.2) do banco de dados vetorial (ChromaDB).
+
 
