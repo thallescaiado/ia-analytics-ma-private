@@ -30,9 +30,9 @@ Aqui está o visual da plataforma de M&A rodando localmente com o modelo Llama 3
 
 ## 🧠 Processo de Aprendizado & Uso de IA
 
-Este projeto foi desenvolvido como um exercício prático durante o programa do **Santander em parceria com a DIO**, com o objetivo de entender os conceitos de Inteligência Artificial e bancos de dados vetoriais aplicados ao mercado de M&A.
+Desenvolvi este projeto como um exercício prático pessoal para entender os conceitos de Inteligência Artificial e bancos de dados vetoriais aplicados ao mercado de M&A.
 
-Como estou no início da minha jornada na programação, utilizei a Inteligência Artificial do Google como assistente de IA colaboradora para me guiar passo a passo na escrita do código, na resolução de erros de ambiente (como caminhos de pastas e compatibilidade de bibliotecas no Windows) e na estruturação do fluxo.
+Como estou no início da minha jornada na programação, utilizei a Inteligência Artificial como assistente colaboradora para me guiar passo a passo na escrita do código, na resolução de erros de ambiente (como caminhos de pastas e compatibilidade de bibliotecas no Windows) e na estruturação do fluxo.
 
 Este projeto foi fundamental para eu praticar de forma realista:
 - **Lógica e Resolução de Problemas:** Aprender a ler mensagens de erro do terminal e aplicar as correções sugeridas.
