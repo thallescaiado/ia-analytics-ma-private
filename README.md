@@ -16,6 +16,14 @@ A solução resolve o desafio de conformidade e governança de dados corporativo
 
 ---
 
+## 📸 Interface do Usuário
+
+Aqui está o visual da plataforma de M&A rodando localmente com o modelo Llama 3.2:
+
+[IA Analytics M&A.pdf](https://github.com/user-attachments/files/32424492/IA.Analytics.M.A.pdf)
+
+---
+
 ## 📈 Funcionalidades e Engenharia de Prompts
 
 - **Análise Financeira Avançada:** Cruzamento de um histórico volumoso de transações de mercado (simulando bases de valuation de M&A), gerando relatórios de participação por setor econômico.
