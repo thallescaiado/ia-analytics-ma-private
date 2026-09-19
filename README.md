@@ -28,6 +28,7 @@ Aqui está o visual da plataforma de M&A rodando localmente com o modelo Llama 3
 
 <img width="1381" height="551" alt="image" src="https://github.com/user-attachments/assets/53167afb-7a89-43cd-a2ea-5e9d8edf19ca" />
 
+<img width="1362" height="402" alt="IA Analytics M A - 4" src="https://github.com/user-attachments/assets/ddb867d1-bdb7-4844-9481-abc1c38a7f27" />
 
 ---
 
