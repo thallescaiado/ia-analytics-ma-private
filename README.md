@@ -20,7 +20,7 @@ A solução resolve o desafio de conformidade e governança de dados corporativo
 
 Aqui está o visual da plataforma de M&A rodando localmente com o modelo Llama 3.2:
 
-<img width="1895" height="823" alt="IA Analytics M A - 2" src="https://github.com/user-attachments/assets/10b5169d-623e-47ab-ad3c-43f5c2047b1d" />
+<img width="1898" height="856" alt="IA Analytics M A - 1" src="https://github.com/user-attachments/assets/e0273afd-9af5-4f2b-b7c1-c231002f96f2" />
 
 <img width="1895" height="823" alt="IA Analytics M A - 2" src="https://github.com/user-attachments/assets/53996aeb-5578-4810-9445-cd1ff3482586" />
 
