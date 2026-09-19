@@ -1,3 +1,4 @@
+<img width="1898" height="856" alt="IA Analytics M A - 1" src="https://github.com/user-attachments/assets/16b76e6d-7282-4f85-8665-36e552bd632c" />
 # 💼 Assistente de Inteligência Artificial para M&A (RAG + ChromaDB + Pandas)
 
 Este projeto consiste em um sistema de **Inteligência Artificial focado em Fusões e Aquisições (M&A)**, projetado para operar de forma 100% local, privada e offline. 
@@ -20,7 +21,11 @@ A solução resolve o desafio de conformidade e governança de dados corporativo
 
 Aqui está o visual da plataforma de M&A rodando localmente com o modelo Llama 3.2:
 
-[IA Analytics M&A.pdf](https://github.com/user-attachments/files/32424492/IA.Analytics.M.A.pdf)
+<img width="1895" height="823" alt="IA Analytics M A - 2" src="https://github.com/user-attachments/assets/10b5169d-623e-47ab-ad3c-43f5c2047b1d" />
+
+<img width="1895" height="823" alt="IA Analytics M A - 2" src="https://github.com/user-attachments/assets/53996aeb-5578-4810-9445-cd1ff3482586" />
+
+<img width="1892" height="846" alt="IA Analytics M A - 3" src="https://github.com/user-attachments/assets/7be17869-cbc6-43e4-9b91-626ff4b1cb7a" />
 
 ---
 
