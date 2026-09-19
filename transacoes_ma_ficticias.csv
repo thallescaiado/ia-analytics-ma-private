@@ -1,0 +1,1001 @@
+id_transacao,compradora,alvo,setor,valuation_brl,data_anuncio,status,email_assessor
+5001,Rios,Fonseca,Finanças,30017215.81,2026-01-12,Análise de NDA,advisor.bianca@ficticio-ma.com.br
+5002,Oliveira,Marques Vasconcelos Ltda.,Logística,216257530.24,2026-09-13,Cancelada,advisor.bento@ficticio-ma.com.br
+5003,da Mata Ltda.,Silveira,Varejo,236753678.17,2025-11-04,Em Due Diligence,advisor.calebe@ficticio-ma.com.br
+5004,Pereira,Jesus Barbosa S/A,Varejo,435298239.98,2024-07-29,Cancelada,advisor.nathan@ficticio-ma.com.br
+5005,Cassiano Peixoto - EI,Duarte da Luz - ME,Energia,231387201.27,2024-03-11,Concluída,advisor.davi luiz@ficticio-ma.com.br
+5006,Barros Costa S.A.,Silveira,Finanças,263616951.16,2023-12-10,Concluída,advisor.caio@ficticio-ma.com.br
+5007,da Rocha,da Conceição,Varejo,223922927.69,2025-05-05,Em Due Diligence,advisor.juliana@ficticio-ma.com.br
+5008,Pereira Teixeira - ME,Santos,Finanças,231361870.41,2025-03-24,Cancelada,advisor.clara@ficticio-ma.com.br
+5009,Guerra,Aragão,Saúde,408619905.68,2025-02-14,Em Due Diligence,advisor.bárbara@ficticio-ma.com.br
+5010,Aragão Marques e Filhos,Pereira,Finanças,494666449.65,2025-10-18,Cancelada,advisor.calebe@ficticio-ma.com.br
+5011,Campos S/A,Jesus,Tecnologia,114618030.82,2024-01-22,Em Due Diligence,advisor.larissa@ficticio-ma.com.br
+5012,Costa,da Costa,Logística,176265774.61,2026-01-01,Análise de NDA,advisor.allana@ficticio-ma.com.br
+5013,Rios,Costa Casa Grande - EI,Finanças,133508992.4,2024-10-08,Cancelada,advisor.luísa@ficticio-ma.com.br
+5014,Rios,da Mota - ME,Tecnologia,251333977.11,2023-11-22,Análise de NDA,advisor.juliana@ficticio-ma.com.br
+5015,Silveira Abreu - ME,Pereira Barbosa e Filhos,Logística,430037309.76,2026-01-16,Concluída,advisor.paulo@ficticio-ma.com.br
+5016,Garcia Pereira - ME,da Luz,Varejo,80316062.49,2024-12-24,Análise de NDA,advisor.matheus@ficticio-ma.com.br
+5017,Andrade,Câmara,Tecnologia,301974516.48,2024-10-31,Cancelada,advisor.rodrigo@ficticio-ma.com.br
+5018,Pereira - EI,Rocha Jesus Ltda.,Varejo,206457345.83,2024-03-27,Concluída,advisor.rafael@ficticio-ma.com.br
+5019,da Costa S.A.,Cavalcante Sousa Ltda.,Finanças,84285605.97,2024-04-30,Em Due Diligence,advisor.maria helena@ficticio-ma.com.br
+5020,Caldeira Araújo - ME,Barbosa,Energia,195920616.37,2026-01-17,Concluída,advisor.luigi@ficticio-ma.com.br
+5021,Vargas Pires Ltda.,da Conceição,Finanças,196501047.37,2025-04-18,Cancelada,advisor.sara@ficticio-ma.com.br
+5022,Duarte S/A,Barros,Logística,372182318.72,2025-08-13,Cancelada,advisor.joão vitor@ficticio-ma.com.br
+5023,das Neves,Nascimento,Energia,341289520.16,2024-09-06,Cancelada,advisor.hadassa@ficticio-ma.com.br
+5024,Alves - EI,Teixeira,Logística,290705445.09,2026-06-18,Em Due Diligence,advisor.carolina@ficticio-ma.com.br
+5025,Caldeira Pereira - EI,da Paz Duarte e Filhos,Energia,256215229.58,2026-04-07,Cancelada,advisor.aylla@ficticio-ma.com.br
+5026,Moraes Ltda.,Andrade Garcia e Filhos,Saúde,103818968.1,2025-02-12,Concluída,advisor.maria liz@ficticio-ma.com.br
+5027,Rodrigues,Casa Grande,Tecnologia,179217114.94,2026-02-05,Concluída,advisor.anna liz@ficticio-ma.com.br
+5028,Caldeira - ME,Marques Pastor S/A,Varejo,158076994.48,2024-02-11,Análise de NDA,advisor.davi lucca@ficticio-ma.com.br
+5029,Pacheco,Campos Ribeiro S.A.,Logística,224205381.1,2024-08-28,Cancelada,advisor.isabela@ficticio-ma.com.br
+5030,Novaes Câmara - EI,Ribeiro,Varejo,23839414.75,2025-01-03,Cancelada,advisor.theodoro@ficticio-ma.com.br
+5031,Pires Duarte Ltda.,da Cruz,Tecnologia,302937161.74,2024-04-14,Em Due Diligence,advisor.alexandre@ficticio-ma.com.br
+5032,Jesus Guerra e Filhos,Mendes,Tecnologia,302756836.79,2025-12-29,Cancelada,advisor.laís@ficticio-ma.com.br
+5033,Novaes,Abreu S/A,Saúde,243400565.58,2025-10-12,Análise de NDA,advisor.breno@ficticio-ma.com.br
+5034,Freitas Silveira e Filhos,Moura,Logística,465113187.08,2024-02-28,Concluída,advisor.lorena@ficticio-ma.com.br
+5035,Garcia,Marques Rodrigues Ltda.,Logística,228133636.84,2024-07-29,Cancelada,advisor.stella@ficticio-ma.com.br
+5036,Abreu Cunha S.A.,Rocha,Finanças,323660594.2,2026-04-12,Concluída,advisor.lunna@ficticio-ma.com.br
+5037,Correia Ltda.,Melo,Finanças,11121667.08,2024-02-19,Cancelada,advisor.hellena@ficticio-ma.com.br
+5038,Novais,da Cunha Pinto e Filhos,Logística,347158784.27,2025-06-06,Cancelada,advisor.raul@ficticio-ma.com.br
+5039,Camargo,Sousa Nascimento S/A,Varejo,469970870.59,2024-05-04,Cancelada,advisor.dante@ficticio-ma.com.br
+5040,Leão,Carvalho,Finanças,366843379.9,2025-10-30,Análise de NDA,advisor.juan@ficticio-ma.com.br
+5041,Cavalcanti Macedo S/A,Farias Aragão - ME,Energia,454386044.28,2025-11-01,Em Due Diligence,advisor.josé miguel@ficticio-ma.com.br
+5042,Dias,Cavalcante,Varejo,446099919.53,2024-04-07,Em Due Diligence,advisor.laura@ficticio-ma.com.br
+5043,Pimenta,Mendonça Correia Ltda.,Varejo,176318984.68,2023-12-26,Concluída,advisor.henry gabriel@ficticio-ma.com.br
+5044,Albuquerque S/A,Nunes - ME,Finanças,8593488.01,2025-02-27,Cancelada,advisor.francisco@ficticio-ma.com.br
+5045,Cassiano - ME,Jesus,Tecnologia,133643811.91,2024-07-28,Cancelada,advisor.isaac@ficticio-ma.com.br
+5046,Freitas S.A.,Pires,Varejo,396210569.01,2025-12-17,Concluída,advisor.brenda@ficticio-ma.com.br
+5047,Alves S.A.,Alves - ME,Varejo,157665216.75,2025-02-28,Em Due Diligence,advisor.henry gabriel@ficticio-ma.com.br
+5048,Brito Pacheco e Filhos,Pires - ME,Finanças,412873779.66,2023-11-11,Análise de NDA,advisor.isadora@ficticio-ma.com.br
+5049,Cirino - ME,Porto,Saúde,371211136.22,2025-02-06,Em Due Diligence,advisor.luiz henrique@ficticio-ma.com.br
+5050,Novaes,Costela Aparecida e Filhos,Tecnologia,190562436.82,2026-06-30,Cancelada,advisor.valentina@ficticio-ma.com.br
+5051,Dias,Casa Grande da Cruz Ltda.,Logística,237330013.72,2024-10-09,Cancelada,advisor.luigi@ficticio-ma.com.br
+5052,Porto,Jesus,Saúde,252670084.58,2025-05-19,Análise de NDA,advisor.lavínia@ficticio-ma.com.br
+5053,Pacheco,Garcia Ltda.,Tecnologia,453527418.64,2025-07-08,Cancelada,advisor.mariana@ficticio-ma.com.br
+5054,Cavalcanti,Alves,Saúde,52383558.59,2025-01-22,Análise de NDA,advisor.josé miguel@ficticio-ma.com.br
+5055,da Cunha Dias Ltda.,Borges,Tecnologia,372675723.79,2025-06-13,Concluída,advisor.joão gabriel@ficticio-ma.com.br
+5056,Cavalcanti,Gonçalves Rodrigues S.A.,Finanças,37617833.9,2024-08-11,Em Due Diligence,advisor.caio@ficticio-ma.com.br
+5057,Ferreira - EI,Cunha da Rosa S/A,Varejo,62064694.66,2025-12-09,Concluída,advisor.eduardo@ficticio-ma.com.br
+5058,Sousa Moreira Ltda.,da Conceição,Varejo,177875351.2,2024-05-05,Cancelada,advisor.josé miguel@ficticio-ma.com.br
+5059,da Conceição,Monteiro,Saúde,40204544.42,2024-04-26,Cancelada,advisor.matteo@ficticio-ma.com.br
+5060,Caldeira,Cassiano,Energia,169417383.38,2024-03-22,Em Due Diligence,advisor.agatha@ficticio-ma.com.br
+5061,Machado Ltda.,Cirino Moraes S.A.,Energia,133237572.09,2025-09-17,Análise de NDA,advisor.kevin@ficticio-ma.com.br
+5062,da Conceição,Siqueira Costa S.A.,Saúde,341326710.08,2026-09-05,Análise de NDA,advisor.alexia@ficticio-ma.com.br
+5063,Casa Grande,Barbosa - EI,Varejo,9945763.24,2023-12-13,Análise de NDA,advisor.luiz fernando@ficticio-ma.com.br
+5064,Santos,da Rocha,Tecnologia,43828408.31,2026-03-17,Concluída,advisor.sofia@ficticio-ma.com.br
+5065,Souza - ME,da Cruz Borges - ME,Tecnologia,396341458.05,2025-07-04,Em Due Diligence,advisor.ana lívia@ficticio-ma.com.br
+5066,Rodrigues,Casa Grande,Saúde,371798720.96,2026-02-01,Análise de NDA,advisor.lívia@ficticio-ma.com.br
+5067,Nogueira,Martins - ME,Varejo,170310319.31,2023-11-07,Em Due Diligence,advisor.cecília@ficticio-ma.com.br
+5068,Pacheco,Pastor Ferreira e Filhos,Varejo,99348712.84,2025-06-02,Em Due Diligence,advisor.agatha@ficticio-ma.com.br
+5069,Farias Santos - ME,Alves,Logística,137300360.58,2024-08-28,Cancelada,advisor.ana beatriz@ficticio-ma.com.br
+5070,Caldeira,Carvalho,Tecnologia,458085643.25,2025-04-17,Concluída,advisor.theodoro@ficticio-ma.com.br
+5071,Nascimento,Leão Teixeira S/A,Varejo,71947756.17,2025-06-24,Análise de NDA,advisor.ana julia@ficticio-ma.com.br
+5072,Almeida Lima - EI,Melo da Cruz e Filhos,Varejo,274032564.11,2024-05-09,Em Due Diligence,advisor.dom@ficticio-ma.com.br
+5073,Nascimento e Filhos,Sá,Varejo,426959480.57,2024-06-14,Cancelada,advisor.mariana@ficticio-ma.com.br
+5074,Pereira,Guerra Ramos Ltda.,Energia,315120910.51,2026-03-06,Em Due Diligence,advisor.davi lucas@ficticio-ma.com.br
+5075,Borges Albuquerque S/A,Oliveira,Logística,347326085.06,2024-07-05,Em Due Diligence,advisor.gael@ficticio-ma.com.br
+5076,Pereira,Pires,Energia,295910739.31,2025-03-04,Em Due Diligence,advisor.marina@ficticio-ma.com.br
+5077,Marques,Gonçalves S/A,Logística,81100982.8,2026-06-29,Concluída,advisor.noah@ficticio-ma.com.br
+5078,Gomes Oliveira - ME,Guerra,Energia,461039197.72,2023-10-10,Cancelada,advisor.milena@ficticio-ma.com.br
+5079,Caldeira S.A.,Jesus Machado S.A.,Saúde,229455247.37,2025-10-09,Concluída,advisor.enzo gabriel@ficticio-ma.com.br
+5080,Cirino e Filhos,da Rocha Farias S/A,Varejo,56590142.22,2023-10-28,Cancelada,advisor.ana laura@ficticio-ma.com.br
+5081,Camargo e Filhos,Correia Moura S.A.,Energia,131084211.64,2024-03-22,Concluída,advisor.gabriel@ficticio-ma.com.br
+5082,Cavalcanti,Macedo Almeida S.A.,Saúde,474506368.65,2024-07-15,Análise de NDA,advisor.ísis@ficticio-ma.com.br
+5083,Cardoso S/A,Nogueira Ltda.,Saúde,406779042.42,2024-07-21,Em Due Diligence,advisor.théo@ficticio-ma.com.br
+5084,Monteiro - ME,Costela,Energia,462930862.41,2026-07-13,Análise de NDA,advisor.eloah@ficticio-ma.com.br
+5085,Cirino Gonçalves S.A.,Camargo,Saúde,453962504.02,2026-03-01,Análise de NDA,advisor.luiz felipe@ficticio-ma.com.br
+5086,Guerra,Sousa,Finanças,270609492.6,2025-07-19,Em Due Diligence,advisor.sophia@ficticio-ma.com.br
+5087,Guerra - ME,Cardoso S/A,Saúde,156193456.9,2024-07-02,Análise de NDA,advisor.maria vitória@ficticio-ma.com.br
+5088,Ferreira Cirino S/A,Ferreira,Tecnologia,284497232.11,2025-04-25,Análise de NDA,advisor.caio@ficticio-ma.com.br
+5089,Cassiano Correia S.A.,Borges Sousa - EI,Logística,337913352.96,2024-03-23,Cancelada,advisor.davi@ficticio-ma.com.br
+5090,da Mata,da Rocha Ltda.,Tecnologia,249384523.91,2025-11-21,Concluída,advisor.maria eduarda@ficticio-ma.com.br
+5091,Pimenta,Oliveira - ME,Logística,111832962.6,2026-03-10,Concluída,advisor.pietra@ficticio-ma.com.br
+5092,Nunes,Fernandes S.A.,Logística,89079921.6,2024-03-10,Em Due Diligence,advisor.elisa@ficticio-ma.com.br
+5093,Peixoto,Oliveira,Finanças,27729145.29,2026-03-14,Cancelada,advisor.erick@ficticio-ma.com.br
+5094,Viana,Guerra - EI,Saúde,424474331.5,2023-09-20,Concluída,advisor.ravy@ficticio-ma.com.br
+5095,Mendonça,Nunes,Varejo,169347081.99,2026-04-17,Concluída,advisor.davi luiz@ficticio-ma.com.br
+5096,Correia,Silva,Saúde,493296221.81,2024-02-12,Cancelada,advisor.joão felipe@ficticio-ma.com.br
+5097,Silveira,das Neves Câmara - ME,Energia,439885734.26,2025-09-05,Em Due Diligence,advisor.isis@ficticio-ma.com.br
+5098,Aragão,Oliveira,Logística,126941455.39,2025-01-30,Concluída,advisor.miguel@ficticio-ma.com.br
+5099,Costela - EI,Macedo Castro Ltda.,Finanças,289997158.64,2024-04-14,Análise de NDA,advisor.kamilly@ficticio-ma.com.br
+5100,da Conceição das Neves - EI,Sales da Costa e Filhos,Tecnologia,59370357.37,2026-02-15,Análise de NDA,advisor.ana julia@ficticio-ma.com.br
+5101,Borges Ramos - EI,Vieira - EI,Tecnologia,441371843.36,2024-05-25,Cancelada,advisor.maria laura@ficticio-ma.com.br
+5102,da Rosa,Pinto,Energia,220626633.51,2024-05-20,Concluída,advisor.josé pedro@ficticio-ma.com.br
+5103,Campos Barros S/A,Mendonça,Tecnologia,244668293.53,2026-01-30,Concluída,advisor.heloísa@ficticio-ma.com.br
+5104,Abreu,Araújo,Tecnologia,78583949.19,2024-07-03,Cancelada,advisor.theo@ficticio-ma.com.br
+5105,Lima Pacheco - EI,Barbosa,Tecnologia,165261227.79,2024-06-06,Concluída,advisor.luiz fernando@ficticio-ma.com.br
+5106,Sales,Correia S.A.,Logística,117206638.35,2026-01-17,Análise de NDA,advisor.laís@ficticio-ma.com.br
+5107,Siqueira,Santos Ltda.,Energia,208199717.02,2026-08-23,Análise de NDA,advisor.antonella@ficticio-ma.com.br
+5108,Sousa,Moreira - EI,Energia,149755681.91,2023-12-27,Análise de NDA,advisor.raul@ficticio-ma.com.br
+5109,da Rocha,da Cunha das Neves S.A.,Finanças,223966323.08,2026-08-14,Cancelada,advisor.leandro@ficticio-ma.com.br
+5110,Monteiro S/A,Borges da Mota - ME,Logística,393596950.35,2023-10-29,Concluída,advisor.asafe@ficticio-ma.com.br
+5111,Almeida,Cavalcanti S/A,Energia,138083032.1,2026-04-12,Concluída,advisor.ayla@ficticio-ma.com.br
+5112,Andrade,Oliveira,Finanças,444190763.89,2024-04-19,Concluída,advisor.ana júlia@ficticio-ma.com.br
+5113,Aparecida Freitas - EI,Souza S.A.,Finanças,263882278.74,2025-01-24,Em Due Diligence,advisor.isabella@ficticio-ma.com.br
+5114,Aparecida,Moraes,Energia,190840629.94,2025-01-05,Cancelada,advisor.bárbara@ficticio-ma.com.br
+5115,da Costa,Casa Grande Pacheco S/A,Tecnologia,214499590.96,2025-11-12,Cancelada,advisor.vitor@ficticio-ma.com.br
+5116,Barros,Cunha,Energia,291886490.15,2024-10-14,Concluída,advisor.yuri@ficticio-ma.com.br
+5117,Macedo,Duarte Casa Grande - ME,Tecnologia,290295638.59,2024-05-09,Análise de NDA,advisor.theo@ficticio-ma.com.br
+5118,Correia S/A,Barros Ltda.,Energia,173035759.15,2024-08-31,Em Due Diligence,advisor.caio@ficticio-ma.com.br
+5119,Silveira,Brito da Rocha S/A,Saúde,201568057.31,2024-10-13,Concluída,advisor.vitória@ficticio-ma.com.br
+5120,Pires Correia S.A.,Freitas Ltda.,Finanças,126535536.54,2026-05-09,Análise de NDA,advisor.cecilia@ficticio-ma.com.br
+5121,Rodrigues,da Cunha,Logística,191497431.3,2025-01-27,Cancelada,advisor.maria luiza@ficticio-ma.com.br
+5122,Cardoso,Pires - EI,Logística,165296480.7,2024-03-14,Cancelada,advisor.pedro henrique@ficticio-ma.com.br
+5123,Jesus S.A.,Castro Rocha e Filhos,Varejo,204226505.39,2026-04-06,Em Due Diligence,advisor.ana clara@ficticio-ma.com.br
+5124,Sales,Castro,Varejo,401749781.76,2024-07-28,Cancelada,advisor.kamilly@ficticio-ma.com.br
+5125,Moreira Silva - ME,Moreira,Energia,183243830.79,2026-01-17,Análise de NDA,advisor.gustavo henrique@ficticio-ma.com.br
+5126,Campos - EI,da Rosa Gomes Ltda.,Finanças,312037351.43,2026-05-05,Cancelada,advisor.antonella@ficticio-ma.com.br
+5127,Peixoto,da Rocha S/A,Energia,251125321.28,2024-04-05,Cancelada,advisor.thomas@ficticio-ma.com.br
+5128,Garcia Vargas S/A,Ribeiro,Saúde,381023164.46,2026-02-25,Análise de NDA,advisor.vicente@ficticio-ma.com.br
+5129,da Cruz Ltda.,Rodrigues e Filhos,Logística,449369553.61,2024-09-25,Em Due Diligence,advisor.luiz henrique@ficticio-ma.com.br
+5130,Barros - ME,Marques S/A,Energia,59227852.3,2024-04-18,Em Due Diligence,advisor.ana sophia@ficticio-ma.com.br
+5131,Ramos,Siqueira,Energia,12897045.01,2026-08-05,Cancelada,advisor.levi@ficticio-ma.com.br
+5132,Ramos,Duarte - EI,Finanças,419803768.65,2024-03-09,Cancelada,advisor.joão vitor@ficticio-ma.com.br
+5133,Freitas,Freitas Jesus - ME,Finanças,469568700.7,2024-01-22,Em Due Diligence,advisor.emilly@ficticio-ma.com.br
+5134,Garcia,Teixeira,Logística,402314550.46,2024-11-30,Em Due Diligence,advisor.maria luísa@ficticio-ma.com.br
+5135,Jesus da Luz Ltda.,da Cruz - ME,Tecnologia,187442800.44,2026-03-17,Em Due Diligence,advisor.eloá@ficticio-ma.com.br
+5136,Barbosa,da Paz e Filhos,Logística,207854372.45,2025-06-07,Análise de NDA,advisor.ana liz@ficticio-ma.com.br
+5137,da Luz da Costa e Filhos,Farias - ME,Logística,474337152.22,2025-07-02,Concluída,advisor.caroline@ficticio-ma.com.br
+5138,da Conceição Ltda.,Cirino Fogaça - ME,Logística,367383952.08,2025-10-04,Concluída,advisor.elisa@ficticio-ma.com.br
+5139,Gonçalves S.A.,Costela - ME,Varejo,188540123.32,2024-08-25,Em Due Diligence,advisor.luiz felipe@ficticio-ma.com.br
+5140,Cassiano S/A,Carvalho,Tecnologia,436475268.23,2025-05-08,Concluída,advisor.thomas@ficticio-ma.com.br
+5141,Sousa e Filhos,Cassiano Ltda.,Saúde,372702772.45,2026-08-21,Concluída,advisor.olívia@ficticio-ma.com.br
+5142,Machado Silveira - ME,Cavalcanti Oliveira S/A,Finanças,100593736.77,2025-07-19,Análise de NDA,advisor.maria@ficticio-ma.com.br
+5143,Siqueira,Silveira,Energia,432327953.54,2026-02-27,Análise de NDA,advisor.maya@ficticio-ma.com.br
+5144,da Costa,Mendes Alves - ME,Finanças,479732794.05,2024-08-05,Análise de NDA,advisor.bella@ficticio-ma.com.br
+5145,Moura,Peixoto S/A,Saúde,326498451.15,2025-11-25,Concluída,advisor.noah@ficticio-ma.com.br
+5146,Abreu,Fogaça,Saúde,81108842.87,2025-01-08,Em Due Diligence,advisor.otto@ficticio-ma.com.br
+5147,Fogaça Ltda.,Moura,Tecnologia,387987962.1,2024-05-01,Análise de NDA,advisor.isis@ficticio-ma.com.br
+5148,Martins,Barbosa Nogueira Ltda.,Energia,87382268.42,2025-01-28,Em Due Diligence,advisor.ryan@ficticio-ma.com.br
+5149,Peixoto,Albuquerque,Saúde,250520278.66,2023-12-06,Cancelada,advisor.melina@ficticio-ma.com.br
+5150,Cassiano S/A,Garcia,Varejo,101624251.49,2025-05-29,Cancelada,advisor.noah@ficticio-ma.com.br
+5151,Gonçalves Alves S/A,Vasconcelos S/A,Tecnologia,319365674.63,2025-05-09,Em Due Diligence,advisor.henry@ficticio-ma.com.br
+5152,Sampaio,Borges Ltda.,Tecnologia,168245684.4,2026-04-14,Cancelada,advisor.luigi@ficticio-ma.com.br
+5153,Garcia,Gomes Lima S/A,Logística,75972894.65,2024-05-15,Concluída,advisor.luiz fernando@ficticio-ma.com.br
+5154,Barros,Costa,Energia,11171926.95,2023-10-29,Análise de NDA,advisor.bryan@ficticio-ma.com.br
+5155,Correia,Nunes,Tecnologia,102100169.88,2024-08-30,Em Due Diligence,advisor.melina@ficticio-ma.com.br
+5156,Freitas Leão - EI,Mendonça - EI,Logística,131485753.56,2026-08-29,Em Due Diligence,advisor.fernando@ficticio-ma.com.br
+5157,Casa Grande,Rodrigues,Tecnologia,182255904.78,2024-01-23,Concluída,advisor.cauã@ficticio-ma.com.br
+5158,Ribeiro e Filhos,Melo,Energia,375005733.41,2026-06-29,Em Due Diligence,advisor.anthony@ficticio-ma.com.br
+5159,Sousa,Araújo,Logística,309978844.28,2026-03-23,Análise de NDA,advisor.gael@ficticio-ma.com.br
+5160,Costa,Câmara - EI,Tecnologia,401760188.19,2025-10-24,Em Due Diligence,advisor.ana julia@ficticio-ma.com.br
+5161,Cardoso,Moura S/A,Varejo,100569863.42,2025-05-31,Análise de NDA,advisor.levi@ficticio-ma.com.br
+5162,Cavalcanti Teixeira S.A.,Aragão,Saúde,64196459.84,2026-01-15,Cancelada,advisor.lunna@ficticio-ma.com.br
+5163,da Cruz - ME,Pimenta Ltda.,Logística,377449727.45,2024-02-25,Em Due Diligence,advisor.lavínia@ficticio-ma.com.br
+5164,Sousa - EI,Borges,Varejo,268945823.27,2025-09-03,Concluída,advisor.isadora@ficticio-ma.com.br
+5165,Viana Pereira e Filhos,da Conceição Cirino S.A.,Saúde,442492357.36,2025-10-12,Concluída,advisor.vitor gabriel@ficticio-ma.com.br
+5166,Sousa,Farias Peixoto S/A,Energia,145427023.57,2025-05-05,Análise de NDA,advisor.felipe@ficticio-ma.com.br
+5167,Gomes Cunha S.A.,Costela,Varejo,52318652.77,2024-09-28,Cancelada,advisor.josé@ficticio-ma.com.br
+5168,Nascimento,Gonçalves,Varejo,185294013.24,2026-01-18,Concluída,advisor.maria alice@ficticio-ma.com.br
+5169,Pacheco e Filhos,Santos Abreu S.A.,Saúde,105196423.53,2024-01-06,Cancelada,advisor.anna liz@ficticio-ma.com.br
+5170,Novaes,Pacheco,Varejo,211220839.26,2026-02-25,Concluída,advisor.joão gabriel@ficticio-ma.com.br
+5171,Costela,Almeida S.A.,Energia,475365250.45,2025-08-09,Cancelada,advisor.luiz fernando@ficticio-ma.com.br
+5172,Cassiano Pimenta S/A,da Cruz,Tecnologia,470131755.92,2024-08-31,Cancelada,advisor.melina@ficticio-ma.com.br
+5173,Barros Monteiro e Filhos,Pimenta,Finanças,71512153.67,2026-07-15,Concluída,advisor.fernanda@ficticio-ma.com.br
+5174,Porto,Fogaça - EI,Tecnologia,270695930.26,2024-02-06,Cancelada,advisor.eduarda@ficticio-ma.com.br
+5175,Carvalho,Vasconcelos Ltda.,Varejo,233210777.04,2025-01-20,Concluída,advisor.clarice@ficticio-ma.com.br
+5176,Dias,da Cunha Rios e Filhos,Logística,218517049.91,2026-06-07,Concluída,advisor.thomas@ficticio-ma.com.br
+5177,da Costa e Filhos,Costa S/A,Tecnologia,250394275.69,2024-09-25,Concluída,advisor.manuela@ficticio-ma.com.br
+5178,Guerra,Rodrigues Nogueira S.A.,Logística,12055676.57,2023-11-13,Cancelada,advisor.yuri@ficticio-ma.com.br
+5179,Nascimento Santos S.A.,da Mota da Mata - EI,Energia,378087923.23,2023-12-07,Concluída,advisor.ravi@ficticio-ma.com.br
+5180,Pacheco,Sá - EI,Logística,323505323.03,2026-03-07,Concluída,advisor.ana sophia@ficticio-ma.com.br
+5181,Castro Novais S.A.,Nogueira,Varejo,393995693.68,2024-01-30,Em Due Diligence,advisor.heloisa@ficticio-ma.com.br
+5182,Sá Ltda.,Ferreira Lima - EI,Saúde,335335133.38,2026-06-09,Concluída,advisor.liz@ficticio-ma.com.br
+5183,Jesus,Carvalho Viana S/A,Tecnologia,384981885.81,2025-04-10,Cancelada,advisor.gabrielly@ficticio-ma.com.br
+5184,Silveira Brito S.A.,Correia Ltda.,Saúde,405255633.95,2026-05-14,Em Due Diligence,advisor.samuel@ficticio-ma.com.br
+5185,Alves,da Rocha Cunha S/A,Tecnologia,42966153.74,2023-11-17,Análise de NDA,advisor.ana sophia@ficticio-ma.com.br
+5186,da Mota da Mata S.A.,Araújo,Tecnologia,66885417.8,2025-08-13,Análise de NDA,advisor.raquel@ficticio-ma.com.br
+5187,da Cruz,Sales Dias - ME,Finanças,312853494.98,2025-03-10,Concluída,advisor.esther@ficticio-ma.com.br
+5188,Lima Novaes - EI,Moura Duarte Ltda.,Varejo,179815031.67,2026-04-27,Concluída,advisor.ravi lucca@ficticio-ma.com.br
+5189,Camargo Camargo Ltda.,Sousa Melo - ME,Energia,383179522.09,2024-12-14,Em Due Diligence,advisor.natália@ficticio-ma.com.br
+5190,Barbosa,Abreu,Energia,310084841.15,2023-11-14,Em Due Diligence,advisor.arthur miguel@ficticio-ma.com.br
+5191,da Cunha da Rosa - EI,Nunes,Tecnologia,335488667.08,2026-08-23,Análise de NDA,advisor.danilo@ficticio-ma.com.br
+5192,Rocha - ME,Alves Ribeiro S.A.,Logística,390680038.57,2026-09-10,Cancelada,advisor.arthur gabriel@ficticio-ma.com.br
+5193,Aragão,Rezende,Finanças,134440679.12,2026-03-25,Cancelada,advisor.evelyn@ficticio-ma.com.br
+5194,Porto Carvalho S/A,Pereira,Varejo,355980157.67,2025-03-04,Cancelada,advisor.marina@ficticio-ma.com.br
+5195,Freitas Mendonça S/A,Cirino - EI,Saúde,383923156.88,2025-03-16,Análise de NDA,advisor.leonardo@ficticio-ma.com.br
+5196,Correia Garcia e Filhos,Abreu - EI,Tecnologia,308827352.87,2024-09-15,Concluída,advisor.emanuel@ficticio-ma.com.br
+5197,da Rosa da Costa - ME,Moura,Varejo,61087083.44,2026-09-07,Cancelada,advisor.raul@ficticio-ma.com.br
+5198,Costela S.A.,Teixeira,Energia,121064712.03,2024-02-12,Em Due Diligence,advisor.lara@ficticio-ma.com.br
+5199,Sousa,Rodrigues Guerra e Filhos,Tecnologia,126705000.52,2024-06-05,Em Due Diligence,advisor.mariana@ficticio-ma.com.br
+5200,da Mata,Marques - EI,Logística,228910770.8,2025-06-14,Concluída,advisor.léo@ficticio-ma.com.br
+5201,Barbosa,da Luz S.A.,Saúde,230920486.21,2024-10-02,Em Due Diligence,advisor.maitê@ficticio-ma.com.br
+5202,Mendonça,Sá,Varejo,266628578.14,2026-07-27,Em Due Diligence,advisor.eduarda@ficticio-ma.com.br
+5203,Pimenta,da Cruz,Energia,55688796.59,2025-09-28,Cancelada,advisor.maria julia@ficticio-ma.com.br
+5204,Aragão,Cassiano,Logística,238407841.89,2025-03-23,Em Due Diligence,advisor.júlia@ficticio-ma.com.br
+5205,da Rocha - EI,Freitas,Saúde,21414657.41,2026-08-01,Em Due Diligence,advisor.leonardo@ficticio-ma.com.br
+5206,Pimenta Marques S/A,Pastor,Logística,219827026.72,2024-06-10,Concluída,advisor.luiz gustavo@ficticio-ma.com.br
+5207,Pastor,da Mota,Saúde,133584151.32,2024-05-24,Em Due Diligence,advisor.gustavo henrique@ficticio-ma.com.br
+5208,Gomes Ltda.,Câmara,Energia,438402466.52,2023-09-30,Em Due Diligence,advisor.ian@ficticio-ma.com.br
+5209,Aparecida Almeida - EI,Barros S.A.,Tecnologia,295779014.75,2026-04-14,Em Due Diligence,advisor.ágatha@ficticio-ma.com.br
+5210,Sales Gonçalves S/A,das Neves Carvalho S.A.,Finanças,291195565.94,2024-05-03,Em Due Diligence,advisor.antônio@ficticio-ma.com.br
+5211,Campos Teixeira - EI,Siqueira,Energia,457206997.56,2023-11-22,Concluída,advisor.maria isis@ficticio-ma.com.br
+5212,Andrade,Machado Sales S/A,Varejo,293762298.85,2025-12-26,Cancelada,advisor.ana vitória@ficticio-ma.com.br
+5213,Costa,Sampaio Sá e Filhos,Finanças,157134041.44,2025-04-16,Análise de NDA,advisor.gabriel@ficticio-ma.com.br
+5214,Martins,da Paz,Tecnologia,404864967.04,2025-08-20,Cancelada,advisor.levi@ficticio-ma.com.br
+5215,Rocha e Filhos,das Neves das Neves - ME,Energia,449239086.18,2023-12-28,Em Due Diligence,advisor.maria laura@ficticio-ma.com.br
+5216,Novaes S.A.,Pereira S/A,Energia,224982140.77,2026-04-11,Concluída,advisor.emanuel@ficticio-ma.com.br
+5217,Fernandes Novaes - EI,da Rocha,Finanças,158317970.65,2026-01-31,Cancelada,advisor.eloah@ficticio-ma.com.br
+5218,Vieira,da Luz,Logística,331306973.32,2024-03-26,Concluída,advisor.isadora@ficticio-ma.com.br
+5219,Pimenta Campos - ME,Fonseca,Energia,174107600.55,2025-05-25,Concluída,advisor.matteo@ficticio-ma.com.br
+5220,Macedo Pastor - ME,Casa Grande S/A,Saúde,290868859.91,2024-03-07,Cancelada,advisor.samuel@ficticio-ma.com.br
+5221,Melo,das Neves - ME,Energia,365647620.86,2026-04-16,Cancelada,advisor.maria júlia@ficticio-ma.com.br
+5222,Cassiano - EI,da Mota - ME,Finanças,275099599.62,2025-04-14,Cancelada,advisor.vinicius@ficticio-ma.com.br
+5223,Pires S/A,Aparecida Dias e Filhos,Logística,185857049.82,2025-09-26,Concluída,advisor.nina@ficticio-ma.com.br
+5224,Santos Castro S.A.,Moreira,Saúde,318059551.49,2025-02-06,Análise de NDA,advisor.alexandre@ficticio-ma.com.br
+5225,Oliveira,Martins,Finanças,306164829.89,2025-02-07,Concluída,advisor.josé miguel@ficticio-ma.com.br
+5226,Guerra,da Rocha Melo e Filhos,Saúde,169992983.8,2023-11-18,Análise de NDA,advisor.gustavo henrique@ficticio-ma.com.br
+5227,Barbosa,Aragão - ME,Energia,285704537.32,2023-12-03,Análise de NDA,advisor.liz@ficticio-ma.com.br
+5228,Mendes Ltda.,Pereira,Energia,478371925.27,2025-06-11,Análise de NDA,advisor.luiz henrique@ficticio-ma.com.br
+5229,Rodrigues S/A,Borges das Neves S.A.,Varejo,120642557.27,2025-10-31,Análise de NDA,advisor.esther@ficticio-ma.com.br
+5230,Machado,da Costa - ME,Logística,99258936.87,2026-04-03,Em Due Diligence,advisor.nicolas@ficticio-ma.com.br
+5231,Sampaio S/A,Cavalcanti S.A.,Tecnologia,321571371.93,2024-01-24,Cancelada,advisor.pietra@ficticio-ma.com.br
+5232,Barbosa,Pires,Saúde,351499289.65,2024-04-06,Cancelada,advisor.catarina@ficticio-ma.com.br
+5233,Vieira,Pastor - ME,Saúde,490905122.54,2024-02-17,Concluída,advisor.raul@ficticio-ma.com.br
+5234,Jesus Montenegro - ME,Sá,Logística,141357846.42,2025-04-18,Análise de NDA,advisor.yuri@ficticio-ma.com.br
+5235,Borges,Nunes,Saúde,149031768.89,2026-01-01,Concluída,advisor.ana lívia@ficticio-ma.com.br
+5236,Melo e Filhos,Almeida Sousa e Filhos,Saúde,373193551.56,2024-04-03,Análise de NDA,advisor.yasmin@ficticio-ma.com.br
+5237,Cirino S/A,da Mota,Tecnologia,337943951.41,2025-08-19,Concluída,advisor.gabriel@ficticio-ma.com.br
+5238,Novais Moraes e Filhos,Aparecida Andrade S.A.,Energia,426028807.0,2024-02-18,Análise de NDA,advisor.maria sophia@ficticio-ma.com.br
+5239,Jesus,Cassiano,Saúde,222478090.27,2026-09-15,Em Due Diligence,advisor.marcela@ficticio-ma.com.br
+5240,Duarte - ME,Vieira,Saúde,395513895.62,2024-08-16,Análise de NDA,advisor.evelyn@ficticio-ma.com.br
+5241,Guerra,Nascimento,Finanças,425578153.23,2023-09-26,Análise de NDA,advisor.rebeca@ficticio-ma.com.br
+5242,Vasconcelos Cardoso Ltda.,Cirino,Varejo,291789305.46,2025-05-31,Em Due Diligence,advisor.asafe@ficticio-ma.com.br
+5243,Novais,Correia,Finanças,408697319.68,2024-12-12,Em Due Diligence,advisor.stephany@ficticio-ma.com.br
+5244,Sales S/A,Marques,Varejo,408523517.13,2024-01-15,Análise de NDA,advisor.vitor@ficticio-ma.com.br
+5245,Viana Abreu - EI,Moraes,Finanças,321831040.74,2023-12-30,Cancelada,advisor.maya@ficticio-ma.com.br
+5246,Guerra Guerra S/A,Andrade,Finanças,89680723.15,2026-01-21,Análise de NDA,advisor.raquel@ficticio-ma.com.br
+5247,Porto,Castro Moreira e Filhos,Logística,303431834.41,2025-01-02,Em Due Diligence,advisor.raquel@ficticio-ma.com.br
+5248,Moura,Rodrigues Montenegro Ltda.,Energia,174294167.79,2024-06-15,Análise de NDA,advisor.anthony@ficticio-ma.com.br
+5249,Garcia,Rocha Costa Ltda.,Energia,204795411.56,2026-08-12,Em Due Diligence,advisor.vitória@ficticio-ma.com.br
+5250,Cavalcanti,Abreu e Filhos,Varejo,300967939.29,2025-05-08,Análise de NDA,advisor.lucas@ficticio-ma.com.br
+5251,Gonçalves,Cirino Pereira - ME,Saúde,132097309.94,2024-02-06,Cancelada,advisor.daniel@ficticio-ma.com.br
+5252,Costa,Castro Almeida - ME,Tecnologia,312090599.99,2025-01-07,Em Due Diligence,advisor.mariana@ficticio-ma.com.br
+5253,Novais,Carvalho,Saúde,213795913.74,2026-03-08,Cancelada,advisor.andré@ficticio-ma.com.br
+5254,da Rosa,Costela,Saúde,250936618.87,2024-07-30,Em Due Diligence,advisor.davi miguel@ficticio-ma.com.br
+5255,Araújo,Costa Cirino Ltda.,Logística,341187635.69,2025-01-10,Em Due Diligence,advisor.valentina@ficticio-ma.com.br
+5256,Nunes,Marques Vasconcelos Ltda.,Finanças,108193373.94,2025-03-25,Em Due Diligence,advisor.luiz henrique@ficticio-ma.com.br
+5257,Vasconcelos Aragão - ME,Garcia - EI,Saúde,212365940.91,2024-08-14,Concluída,advisor.luara@ficticio-ma.com.br
+5258,Gonçalves S/A,Souza,Logística,222538577.07,2026-06-22,Concluída,advisor.francisco@ficticio-ma.com.br
+5259,Mendonça Oliveira Ltda.,da Luz - ME,Saúde,245214654.08,2025-04-12,Cancelada,advisor.yan@ficticio-ma.com.br
+5260,Macedo,Machado Cavalcante S.A.,Logística,481200576.68,2026-01-12,Concluída,advisor.mariane@ficticio-ma.com.br
+5261,Macedo - EI,Porto Ltda.,Saúde,137187939.87,2023-10-19,Cancelada,advisor.ana sophia@ficticio-ma.com.br
+5262,Costela,Borges,Tecnologia,132408775.4,2026-05-08,Análise de NDA,advisor.maria laura@ficticio-ma.com.br
+5263,Lopes,Abreu,Logística,95413379.32,2023-11-19,Concluída,advisor.alana@ficticio-ma.com.br
+5264,da Cruz,Castro e Filhos,Finanças,369387150.05,2025-05-07,Concluída,advisor.bernardo@ficticio-ma.com.br
+5265,da Paz Cavalcanti S.A.,da Rocha S/A,Saúde,226682872.57,2024-11-07,Em Due Diligence,advisor.amanda@ficticio-ma.com.br
+5266,da Rocha,Camargo,Varejo,230910692.24,2024-08-17,Em Due Diligence,advisor.antonella@ficticio-ma.com.br
+5267,Cassiano S/A,da Rosa - ME,Finanças,176010390.45,2024-10-24,Concluída,advisor.maria liz@ficticio-ma.com.br
+5268,da Rocha Azevedo Ltda.,Lima Vieira S/A,Saúde,452139272.0,2025-05-10,Análise de NDA,advisor.ana laura@ficticio-ma.com.br
+5269,Ribeiro Cirino e Filhos,Moreira Albuquerque S.A.,Tecnologia,377687193.86,2025-08-27,Análise de NDA,advisor.joão vitor@ficticio-ma.com.br
+5270,Cavalcante Lopes e Filhos,Leão Borges S/A,Logística,37336515.31,2024-10-24,Cancelada,advisor.ana laura@ficticio-ma.com.br
+5271,Rodrigues Pinto - ME,Dias,Saúde,492630865.37,2024-05-21,Cancelada,advisor.gustavo henrique@ficticio-ma.com.br
+5272,Rocha S.A.,Camargo S/A,Saúde,223067990.4,2024-01-10,Concluída,advisor.henry@ficticio-ma.com.br
+5273,Nunes - ME,Siqueira,Saúde,141405650.78,2024-04-08,Em Due Diligence,advisor.juliana@ficticio-ma.com.br
+5274,da Rosa Ltda.,Guerra,Saúde,388493999.79,2025-04-15,Cancelada,advisor.maria fernanda@ficticio-ma.com.br
+5275,da Luz,Silveira Câmara e Filhos,Varejo,301630320.71,2024-09-21,Concluída,advisor.marcelo@ficticio-ma.com.br
+5276,Mendonça,Machado,Saúde,256342344.04,2024-04-20,Em Due Diligence,advisor.kevin@ficticio-ma.com.br
+5277,Jesus S/A,Fogaça,Varejo,311938368.66,2024-05-01,Cancelada,advisor.hellena@ficticio-ma.com.br
+5278,Moura - ME,Alves Ltda.,Finanças,186774729.86,2026-01-28,Cancelada,advisor.calebe@ficticio-ma.com.br
+5279,da Mata Mendonça - EI,Nascimento,Energia,466790796.64,2024-02-24,Análise de NDA,advisor.bryan@ficticio-ma.com.br
+5280,Vieira,Pastor,Saúde,305284892.85,2026-03-14,Análise de NDA,advisor.maria flor@ficticio-ma.com.br
+5281,Casa Grande,Novaes Abreu - ME,Tecnologia,323730779.88,2025-08-29,Em Due Diligence,advisor.maria helena@ficticio-ma.com.br
+5282,Barbosa,Fernandes Fernandes S/A,Energia,181975244.23,2023-12-03,Análise de NDA,advisor.bryan@ficticio-ma.com.br
+5283,Macedo,Silveira Macedo e Filhos,Saúde,336628206.74,2026-04-29,Em Due Diligence,advisor.larissa@ficticio-ma.com.br
+5284,da Rosa Montenegro Ltda.,Borges,Logística,386748224.99,2024-10-21,Cancelada,advisor.augusto@ficticio-ma.com.br
+5285,Camargo,Marques,Finanças,138688628.89,2026-03-23,Concluída,advisor.ester@ficticio-ma.com.br
+5286,Leão,da Mata - ME,Logística,480608481.57,2024-06-12,Cancelada,advisor.kevin@ficticio-ma.com.br
+5287,das Neves S/A,Pimenta Costela S/A,Tecnologia,146263697.94,2026-05-02,Cancelada,advisor.isabelly@ficticio-ma.com.br
+5288,Santos Albuquerque - ME,Rodrigues Macedo e Filhos,Varejo,443579309.5,2025-06-27,Cancelada,advisor.luan@ficticio-ma.com.br
+5289,Fogaça,Silva,Saúde,156011321.53,2024-12-26,Cancelada,advisor.josé@ficticio-ma.com.br
+5290,Cardoso,Correia,Varejo,352683484.99,2024-09-16,Concluída,advisor.arthur@ficticio-ma.com.br
+5291,Lopes,Nascimento Novaes S.A.,Energia,36085878.72,2023-11-27,Em Due Diligence,advisor.luiz felipe@ficticio-ma.com.br
+5292,Peixoto Lima S/A,Novaes e Filhos,Saúde,29125708.1,2025-06-03,Análise de NDA,advisor.maria laura@ficticio-ma.com.br
+5293,Santos,Farias,Saúde,417188516.75,2025-10-24,Em Due Diligence,advisor.breno@ficticio-ma.com.br
+5294,Montenegro da Conceição e Filhos,Pacheco,Saúde,44326846.77,2025-05-10,Análise de NDA,advisor.yan@ficticio-ma.com.br
+5295,Pereira,Siqueira,Saúde,337694871.31,2026-05-30,Em Due Diligence,advisor.maria clara@ficticio-ma.com.br
+5296,Albuquerque,Farias,Saúde,63615266.03,2024-06-30,Concluída,advisor.alice@ficticio-ma.com.br
+5297,Borges,Costela,Energia,38110142.15,2024-07-19,Análise de NDA,advisor.eloá@ficticio-ma.com.br
+5298,Rodrigues Fogaça S.A.,Cavalcante,Energia,47604436.49,2024-09-12,Análise de NDA,advisor.lara@ficticio-ma.com.br
+5299,Albuquerque,Silva S.A.,Saúde,313892571.88,2023-10-04,Cancelada,advisor.hellena@ficticio-ma.com.br
+5300,Casa Grande - ME,da Mota da Costa e Filhos,Saúde,349728599.19,2026-04-15,Cancelada,advisor.kaique@ficticio-ma.com.br
+5301,Mendonça,Ferreira,Tecnologia,131804047.76,2023-12-02,Análise de NDA,advisor.ana júlia@ficticio-ma.com.br
+5302,das Neves - ME,Vasconcelos Pereira e Filhos,Tecnologia,368506168.39,2025-10-21,Em Due Diligence,advisor.beatriz@ficticio-ma.com.br
+5303,da Cunha Gonçalves S.A.,da Mata Peixoto e Filhos,Energia,70241989.01,2024-07-12,Concluída,advisor.ravi lucca@ficticio-ma.com.br
+5304,Alves,Camargo,Saúde,442060812.03,2023-12-01,Concluída,advisor.augusto@ficticio-ma.com.br
+5305,Gomes Cardoso - EI,Cavalcante,Energia,47027420.58,2024-06-21,Concluída,advisor.juan@ficticio-ma.com.br
+5306,Castro Fernandes e Filhos,Silveira S.A.,Energia,337085565.71,2024-03-20,Em Due Diligence,advisor.anna liz@ficticio-ma.com.br
+5307,Viana - EI,Abreu,Energia,192706297.71,2024-02-12,Cancelada,advisor.ana vitória@ficticio-ma.com.br
+5308,Duarte,Camargo,Logística,307227506.09,2025-06-20,Em Due Diligence,advisor.pedro miguel@ficticio-ma.com.br
+5309,Sampaio,Gonçalves,Energia,144715689.74,2025-11-12,Em Due Diligence,advisor.anthony@ficticio-ma.com.br
+5310,Monteiro,Cunha S/A,Finanças,369021985.81,2024-06-06,Análise de NDA,advisor.rafaela@ficticio-ma.com.br
+5311,Cirino S.A.,Cavalcanti Pereira - EI,Logística,425892612.07,2026-09-01,Análise de NDA,advisor.juan@ficticio-ma.com.br
+5312,Fogaça - ME,das Neves,Tecnologia,153205840.47,2025-02-28,Análise de NDA,advisor.matteo@ficticio-ma.com.br
+5313,Machado - ME,Garcia Novaes Ltda.,Energia,248189850.94,2024-09-09,Em Due Diligence,advisor.josé pedro@ficticio-ma.com.br
+5314,Dias Fonseca e Filhos,Moura Ltda.,Varejo,115674623.95,2024-04-29,Análise de NDA,advisor.maya@ficticio-ma.com.br
+5315,Sampaio,Câmara e Filhos,Energia,497330505.73,2023-11-24,Em Due Diligence,advisor.antony@ficticio-ma.com.br
+5316,Rezende S/A,da Cruz Campos S.A.,Logística,168604032.9,2024-09-28,Concluída,advisor.rafael@ficticio-ma.com.br
+5317,Peixoto e Filhos,Moreira,Saúde,59004835.05,2026-05-07,Análise de NDA,advisor.pedro lucas@ficticio-ma.com.br
+5318,Câmara Pacheco e Filhos,Cassiano Rocha e Filhos,Energia,133893472.91,2024-05-03,Cancelada,advisor.vitor@ficticio-ma.com.br
+5319,Almeida,Pires,Varejo,291751164.75,2025-08-04,Em Due Diligence,advisor.raul@ficticio-ma.com.br
+5320,da Cruz,Oliveira,Saúde,163569751.86,2025-10-07,Concluída,advisor.emilly@ficticio-ma.com.br
+5321,Fernandes e Filhos,Peixoto - ME,Varejo,69196076.16,2023-12-29,Concluída,advisor.liam@ficticio-ma.com.br
+5322,Carvalho,Peixoto Lima Ltda.,Energia,265210370.38,2024-07-21,Cancelada,advisor.ágatha@ficticio-ma.com.br
+5323,Nascimento Jesus - EI,Porto S.A.,Logística,336635235.16,2024-02-10,Análise de NDA,advisor.benjamin@ficticio-ma.com.br
+5324,Vargas,Garcia Nascimento S/A,Saúde,293115774.93,2024-03-26,Em Due Diligence,advisor.diogo@ficticio-ma.com.br
+5325,Sampaio Cassiano - ME,Cavalcante Barros - ME,Finanças,491603975.25,2026-07-07,Concluída,advisor.eduarda@ficticio-ma.com.br
+5326,Macedo S.A.,Cardoso S/A,Tecnologia,382173347.83,2026-06-08,Cancelada,advisor.vitor hugo@ficticio-ma.com.br
+5327,Macedo,Barros,Energia,343774362.71,2026-08-17,Cancelada,advisor.rhavi@ficticio-ma.com.br
+5328,Azevedo - ME,Souza,Finanças,399455818.34,2024-05-21,Concluída,advisor.carlos eduardo@ficticio-ma.com.br
+5329,Pacheco - ME,Jesus,Tecnologia,202601630.02,2026-04-10,Em Due Diligence,advisor.valentina@ficticio-ma.com.br
+5330,Câmara,da Costa Moura e Filhos,Energia,322989654.26,2024-08-24,Cancelada,advisor.matheus@ficticio-ma.com.br
+5331,Nascimento Ltda.,Pacheco,Varejo,20627653.96,2025-05-16,Concluída,advisor.luna@ficticio-ma.com.br
+5332,Alves,Rios Jesus e Filhos,Logística,201061790.81,2026-01-09,Concluída,advisor.ester@ficticio-ma.com.br
+5333,Araújo Cassiano e Filhos,Ferreira - EI,Finanças,277268114.5,2024-04-16,Cancelada,advisor.brayan@ficticio-ma.com.br
+5334,Pires Caldeira - ME,Jesus,Logística,128807499.65,2024-05-06,Em Due Diligence,advisor.catarina@ficticio-ma.com.br
+5335,Nascimento Cavalcante - EI,Costela Pastor - ME,Energia,40592515.93,2023-12-20,Cancelada,advisor.davi lucas@ficticio-ma.com.br
+5336,da Costa - ME,Moura,Energia,476647691.99,2024-11-08,Cancelada,advisor.otávio@ficticio-ma.com.br
+5337,Lopes,da Costa S/A,Logística,212097931.41,2025-04-13,Em Due Diligence,advisor.emanuel@ficticio-ma.com.br
+5338,Camargo,Pacheco Nogueira S/A,Energia,55629881.53,2024-06-08,Concluída,advisor.thomas@ficticio-ma.com.br
+5339,Fonseca,Vargas,Energia,49471679.77,2025-01-08,Análise de NDA,advisor.joão guilherme@ficticio-ma.com.br
+5340,Campos Pimenta S.A.,Campos Monteiro S.A.,Saúde,215219265.07,2025-10-17,Análise de NDA,advisor.renan@ficticio-ma.com.br
+5341,Pacheco,Campos - EI,Saúde,459959474.98,2025-06-01,Concluída,advisor.pietro@ficticio-ma.com.br
+5342,Borges e Filhos,Freitas - EI,Varejo,387133892.02,2023-11-15,Cancelada,advisor.arthur@ficticio-ma.com.br
+5343,da Conceição Albuquerque e Filhos,Martins,Finanças,387027898.44,2024-12-13,Cancelada,advisor.luísa@ficticio-ma.com.br
+5344,Sá S/A,Andrade Cardoso S/A,Tecnologia,227246518.36,2026-08-06,Análise de NDA,advisor.lucas@ficticio-ma.com.br
+5345,Costa S/A,Câmara Ltda.,Energia,320140269.99,2023-11-18,Cancelada,advisor.luiz henrique@ficticio-ma.com.br
+5346,das Neves,Dias Marques - ME,Varejo,175709828.99,2026-02-26,Concluída,advisor.cauê@ficticio-ma.com.br
+5347,Lopes,Oliveira Garcia S.A.,Logística,275586516.97,2024-07-09,Concluída,advisor.arthur@ficticio-ma.com.br
+5348,Jesus Montenegro e Filhos,Cassiano S.A.,Saúde,230898375.05,2026-08-28,Análise de NDA,advisor.luiz felipe@ficticio-ma.com.br
+5349,Carvalho,Lopes,Saúde,106287376.23,2026-06-30,Concluída,advisor.ana laura@ficticio-ma.com.br
+5350,Araújo,Mendonça,Varejo,389988294.18,2024-12-13,Análise de NDA,advisor.ian@ficticio-ma.com.br
+5351,Cunha Sá - ME,Cunha,Logística,291323242.72,2024-12-07,Concluída,advisor.ágatha@ficticio-ma.com.br
+5352,Gonçalves da Rosa S/A,Machado,Energia,330560245.55,2024-01-17,Análise de NDA,advisor.pedro@ficticio-ma.com.br
+5353,Nunes Fernandes e Filhos,Fogaça,Finanças,108835734.31,2024-08-01,Em Due Diligence,advisor.benicio@ficticio-ma.com.br
+5354,Silva Costela e Filhos,Araújo,Tecnologia,277372047.83,2025-08-16,Concluída,advisor.eduardo@ficticio-ma.com.br
+5355,Gonçalves - ME,Pires - EI,Varejo,9455022.12,2024-04-03,Cancelada,advisor.ana liz@ficticio-ma.com.br
+5356,Araújo Ltda.,Andrade Barros e Filhos,Saúde,83697337.45,2025-04-11,Análise de NDA,advisor.heloísa@ficticio-ma.com.br
+5357,Barros Dias - ME,Nascimento,Tecnologia,345929488.44,2026-05-20,Em Due Diligence,advisor.raul@ficticio-ma.com.br
+5358,Novaes,Caldeira,Energia,74959075.9,2026-02-22,Cancelada,advisor.eduardo@ficticio-ma.com.br
+5359,Sousa,Pacheco Santos S.A.,Saúde,316898126.44,2026-08-18,Em Due Diligence,advisor.léo@ficticio-ma.com.br
+5360,Silva e Filhos,Silva Câmara S.A.,Finanças,29486592.81,2024-04-09,Concluída,advisor.théo@ficticio-ma.com.br
+5361,Moura,Souza,Logística,481879186.34,2024-03-14,Concluída,advisor.bárbara@ficticio-ma.com.br
+5362,da Mota,Souza,Varejo,299656769.92,2026-04-13,Em Due Diligence,advisor.marcos vinicius@ficticio-ma.com.br
+5363,Azevedo,Cirino Novaes Ltda.,Logística,398503152.94,2023-10-08,Concluída,advisor.lunna@ficticio-ma.com.br
+5364,Cardoso,Campos - EI,Varejo,62214181.52,2025-08-30,Cancelada,advisor.eloá@ficticio-ma.com.br
+5365,Pinto e Filhos,Almeida,Finanças,429989165.12,2024-09-22,Cancelada,advisor.clarice@ficticio-ma.com.br
+5366,Ramos,Fonseca,Varejo,354854802.44,2023-12-22,Em Due Diligence,advisor.dom@ficticio-ma.com.br
+5367,Gonçalves Pires S.A.,Jesus - EI,Tecnologia,195379753.95,2024-01-22,Em Due Diligence,advisor.ana beatriz@ficticio-ma.com.br
+5368,Cunha S.A.,Sá S.A.,Logística,421526258.51,2026-06-14,Concluída,advisor.emanuelly@ficticio-ma.com.br
+5369,Almeida - EI,Sales,Logística,70272990.47,2025-01-08,Cancelada,advisor.fernanda@ficticio-ma.com.br
+5370,Gonçalves Marques - ME,Mendes da Mata S.A.,Varejo,189215135.37,2024-07-10,Concluída,advisor.maya@ficticio-ma.com.br
+5371,Ramos da Paz e Filhos,Alves,Saúde,407473937.77,2024-04-23,Em Due Diligence,advisor.josé@ficticio-ma.com.br
+5372,Brito Sousa - EI,Sousa,Tecnologia,263116817.36,2026-06-01,Concluída,advisor.joão pedro@ficticio-ma.com.br
+5373,Pires,Moura,Logística,66996950.38,2024-12-24,Concluída,advisor.sofia@ficticio-ma.com.br
+5374,Câmara,Câmara Farias - EI,Saúde,239720773.37,2024-06-06,Em Due Diligence,advisor.henry@ficticio-ma.com.br
+5375,Ramos - ME,da Costa,Tecnologia,288405578.88,2024-09-01,Em Due Diligence,advisor.natália@ficticio-ma.com.br
+5376,Casa Grande,Novais - ME,Tecnologia,481455426.48,2025-11-03,Concluída,advisor.catarina@ficticio-ma.com.br
+5377,Melo Porto S.A.,Fernandes,Energia,170821947.56,2024-09-12,Cancelada,advisor.luiza@ficticio-ma.com.br
+5378,Rezende,Pimenta,Tecnologia,445092128.5,2025-10-12,Em Due Diligence,advisor.leandro@ficticio-ma.com.br
+5379,Rios,Moreira,Varejo,225260812.02,2023-10-22,Concluída,advisor.davi lucas@ficticio-ma.com.br
+5380,Leão,Moraes,Tecnologia,148413860.08,2024-08-14,Análise de NDA,advisor.caroline@ficticio-ma.com.br
+5381,Mendonça,Vieira,Saúde,158109063.02,2024-03-22,Análise de NDA,advisor.joão guilherme@ficticio-ma.com.br
+5382,Gonçalves - EI,Fernandes Alves S.A.,Logística,275990183.91,2023-09-21,Cancelada,advisor.cauã@ficticio-ma.com.br
+5383,Moreira,Ferreira,Saúde,331540801.54,2025-02-25,Análise de NDA,advisor.pedro lucas@ficticio-ma.com.br
+5384,Câmara S/A,Mendonça,Energia,170302101.18,2026-05-15,Concluída,advisor.caroline@ficticio-ma.com.br
+5385,Sales Cardoso - EI,Pires,Tecnologia,412832719.33,2026-07-22,Concluída,advisor.stella@ficticio-ma.com.br
+5386,Pereira S/A,Aragão Ltda.,Energia,310240719.38,2025-03-31,Em Due Diligence,advisor.yuri@ficticio-ma.com.br
+5387,da Costa,Mendonça,Saúde,145163596.46,2025-05-12,Cancelada,advisor.maria isis@ficticio-ma.com.br
+5388,Pacheco,da Rocha da Cruz e Filhos,Saúde,268447661.11,2024-11-19,Concluída,advisor.daniel@ficticio-ma.com.br
+5389,Nascimento,das Neves S/A,Saúde,356173445.8,2026-01-12,Em Due Diligence,advisor.gabrielly@ficticio-ma.com.br
+5390,Câmara,Siqueira Leão e Filhos,Logística,364777545.53,2024-06-30,Em Due Diligence,advisor.breno@ficticio-ma.com.br
+5391,Casa Grande,Aragão Guerra S/A,Finanças,92610778.74,2026-05-20,Análise de NDA,advisor.maysa@ficticio-ma.com.br
+5392,Fernandes Gomes S/A,Cardoso S.A.,Energia,448801612.95,2023-11-02,Concluída,advisor.pietro@ficticio-ma.com.br
+5393,Almeida - EI,Sousa Aragão e Filhos,Logística,14918107.09,2026-08-04,Cancelada,advisor.otávio@ficticio-ma.com.br
+5394,Vieira Melo e Filhos,da Paz,Tecnologia,217145276.68,2026-01-22,Em Due Diligence,advisor.manuela@ficticio-ma.com.br
+5395,Guerra Ltda.,Rios Teixeira e Filhos,Saúde,366497343.08,2024-03-27,Cancelada,advisor.liz@ficticio-ma.com.br
+5396,Sousa,Rezende S/A,Finanças,54712670.19,2026-06-07,Concluída,advisor.nina@ficticio-ma.com.br
+5397,da Costa S/A,Ribeiro Sampaio - EI,Varejo,150816437.61,2024-10-29,Análise de NDA,advisor.allana@ficticio-ma.com.br
+5398,Albuquerque da Conceição S/A,Cardoso,Energia,292961118.19,2026-07-12,Concluída,advisor.bernardo@ficticio-ma.com.br
+5399,Sousa,Novais Albuquerque S.A.,Varejo,310862596.03,2025-03-12,Cancelada,advisor.luiz felipe@ficticio-ma.com.br
+5400,Araújo S.A.,Camargo,Logística,187428184.53,2023-12-14,Em Due Diligence,advisor.dante@ficticio-ma.com.br
+5401,Aparecida e Filhos,da Paz - ME,Energia,125519154.33,2025-12-25,Análise de NDA,advisor.liz@ficticio-ma.com.br
+5402,Novaes,Gomes,Energia,155928894.65,2025-07-09,Cancelada,advisor.stella@ficticio-ma.com.br
+5403,Azevedo,Gonçalves Ltda.,Tecnologia,37961985.69,2025-06-09,Análise de NDA,advisor.joão lucas@ficticio-ma.com.br
+5404,Aparecida,Rezende,Varejo,201119011.27,2024-01-28,Cancelada,advisor.ana júlia@ficticio-ma.com.br
+5405,da Conceição S/A,Freitas da Mota Ltda.,Saúde,494484810.66,2026-03-14,Concluída,advisor.arthur gabriel@ficticio-ma.com.br
+5406,da Cruz Fogaça e Filhos,da Rocha Macedo Ltda.,Varejo,486393518.55,2026-03-01,Concluída,advisor.juan@ficticio-ma.com.br
+5407,Campos Cunha Ltda.,Oliveira S/A,Varejo,143837181.82,2025-09-24,Cancelada,advisor.alexandre@ficticio-ma.com.br
+5408,Barros,Montenegro,Tecnologia,23522917.76,2026-05-17,Em Due Diligence,advisor.nina@ficticio-ma.com.br
+5409,Cardoso,Castro,Tecnologia,176556964.25,2023-11-17,Cancelada,advisor.ísis@ficticio-ma.com.br
+5410,Jesus,Vasconcelos Ltda.,Saúde,201728765.68,2026-08-18,Análise de NDA,advisor.manuella@ficticio-ma.com.br
+5411,Novaes Nascimento e Filhos,Silveira,Energia,374271632.42,2026-08-03,Análise de NDA,advisor.joão felipe@ficticio-ma.com.br
+5412,Barros - ME,Jesus Albuquerque - EI,Saúde,85181544.82,2025-11-29,Em Due Diligence,advisor.ágatha@ficticio-ma.com.br
+5413,da Rocha Rocha e Filhos,Moreira,Tecnologia,192699191.04,2024-09-19,Cancelada,advisor.thales@ficticio-ma.com.br
+5414,Macedo,Pires,Varejo,448352054.77,2025-03-22,Em Due Diligence,advisor.ryan@ficticio-ma.com.br
+5415,Monteiro da Paz e Filhos,Fernandes,Energia,353000809.06,2025-05-22,Cancelada,advisor.lavínia@ficticio-ma.com.br
+5416,Costela e Filhos,Sousa,Varejo,452277665.61,2025-10-21,Cancelada,advisor.brayan@ficticio-ma.com.br
+5417,Silveira,Vasconcelos,Energia,273606672.34,2024-02-18,Cancelada,advisor.marcos vinicius@ficticio-ma.com.br
+5418,Vargas,Carvalho,Saúde,42427237.36,2025-01-21,Concluída,advisor.lucas@ficticio-ma.com.br
+5419,Santos Teixeira Ltda.,Moraes,Logística,55537727.59,2025-12-08,Concluída,advisor.mariane@ficticio-ma.com.br
+5420,Lima,Costela - ME,Saúde,14176475.85,2025-01-30,Em Due Diligence,advisor.anthony gabriel@ficticio-ma.com.br
+5421,Cassiano,Cirino e Filhos,Finanças,381433345.41,2024-02-19,Em Due Diligence,advisor.emanuella@ficticio-ma.com.br
+5422,Nogueira,Novais Marques Ltda.,Tecnologia,392310950.65,2026-04-16,Análise de NDA,advisor.calebe@ficticio-ma.com.br
+5423,Ribeiro e Filhos,Brito,Tecnologia,125279750.98,2026-08-08,Cancelada,advisor.laura@ficticio-ma.com.br
+5424,Teixeira - EI,Aragão,Finanças,421019755.65,2026-07-30,Cancelada,advisor.aylla@ficticio-ma.com.br
+5425,Pires Cardoso S.A.,da Mota,Logística,445395700.08,2024-02-20,Cancelada,advisor.raquel@ficticio-ma.com.br
+5426,Câmara Ribeiro S/A,Nogueira Ltda.,Varejo,337484063.5,2024-12-12,Concluída,advisor.cecília@ficticio-ma.com.br
+5427,Silva Azevedo S.A.,Moreira Carvalho - EI,Finanças,114065296.34,2026-01-03,Concluída,advisor.maria julia@ficticio-ma.com.br
+5428,Rocha - ME,Nogueira Campos S.A.,Varejo,36296992.63,2026-02-09,Análise de NDA,advisor.manuella@ficticio-ma.com.br
+5429,Campos e Filhos,Caldeira Lopes e Filhos,Energia,324019251.93,2025-06-19,Cancelada,advisor.lucas@ficticio-ma.com.br
+5430,da Mota Casa Grande S.A.,Vieira Pastor e Filhos,Finanças,256008103.71,2025-11-20,Em Due Diligence,advisor.bruna@ficticio-ma.com.br
+5431,Rodrigues S/A,da Mata Sá - ME,Varejo,271269508.08,2024-06-18,Análise de NDA,advisor.isabelly@ficticio-ma.com.br
+5432,Farias S.A.,Castro S/A,Energia,421776618.65,2024-09-07,Análise de NDA,advisor.joana@ficticio-ma.com.br
+5433,Cavalcante da Luz S/A,Silva,Finanças,447213752.32,2025-05-26,Em Due Diligence,advisor.emanuelly@ficticio-ma.com.br
+5434,Moura,Sousa,Energia,254563757.41,2023-10-07,Cancelada,advisor.liz@ficticio-ma.com.br
+5435,da Luz Cunha Ltda.,Rodrigues Nascimento S/A,Tecnologia,420568703.65,2024-02-26,Cancelada,advisor.catarina@ficticio-ma.com.br
+5436,Fernandes,Melo,Energia,221198861.41,2026-09-01,Concluída,advisor.pedro@ficticio-ma.com.br
+5437,da Mota e Filhos,Andrade,Varejo,14272350.64,2024-02-28,Em Due Diligence,advisor.murilo@ficticio-ma.com.br
+5438,Pimenta,Farias,Varejo,211371862.37,2026-05-23,Em Due Diligence,advisor.pietro@ficticio-ma.com.br
+5439,da Cunha,das Neves - EI,Varejo,134767766.57,2023-10-26,Em Due Diligence,advisor.lucca@ficticio-ma.com.br
+5440,Gonçalves,Rocha Peixoto Ltda.,Saúde,416294990.52,2025-05-13,Análise de NDA,advisor.allana@ficticio-ma.com.br
+5441,Andrade Ltda.,da Rocha,Varejo,264182578.41,2025-10-30,Concluída,advisor.joana@ficticio-ma.com.br
+5442,Nogueira,Siqueira,Finanças,133293372.77,2026-05-31,Concluída,advisor.pietra@ficticio-ma.com.br
+5443,Sousa Fernandes S/A,Brito S/A,Varejo,391983737.02,2025-02-05,Concluída,advisor.arthur@ficticio-ma.com.br
+5444,Almeida,Cunha Mendonça - EI,Logística,265371398.08,2023-10-26,Cancelada,advisor.théo@ficticio-ma.com.br
+5445,Viana,Ramos e Filhos,Saúde,305178105.48,2024-07-03,Em Due Diligence,advisor.andré@ficticio-ma.com.br
+5446,Viana das Neves S.A.,Dias e Filhos,Energia,260099516.18,2023-12-27,Concluída,advisor.mateus@ficticio-ma.com.br
+5447,da Luz,Cavalcanti,Logística,361237803.89,2026-06-21,Em Due Diligence,advisor.lucca@ficticio-ma.com.br
+5448,Cirino,Rodrigues,Logística,297555500.69,2024-05-09,Em Due Diligence,advisor.maria liz@ficticio-ma.com.br
+5449,Andrade - ME,Mendes Ltda.,Logística,226316754.56,2024-11-30,Análise de NDA,advisor.olivia@ficticio-ma.com.br
+5450,Melo,Sampaio Araújo S.A.,Saúde,420574174.09,2025-01-25,Cancelada,advisor.heloisa@ficticio-ma.com.br
+5451,Ramos,Ramos,Energia,421134080.5,2024-10-19,Em Due Diligence,advisor.isaac@ficticio-ma.com.br
+5452,Câmara,Teixeira,Varejo,457191505.62,2023-09-28,Em Due Diligence,advisor.pietro@ficticio-ma.com.br
+5453,Melo,Alves Nascimento S.A.,Saúde,154914046.06,2025-12-13,Em Due Diligence,advisor.andré@ficticio-ma.com.br
+5454,Fernandes,Campos S/A,Tecnologia,96363865.39,2024-07-14,Análise de NDA,advisor.henrique@ficticio-ma.com.br
+5455,Borges e Filhos,Santos S/A,Varejo,330577615.68,2024-07-25,Análise de NDA,advisor.liz@ficticio-ma.com.br
+5456,Monteiro,Barbosa e Filhos,Energia,468984332.22,2026-09-13,Cancelada,advisor.joão gabriel@ficticio-ma.com.br
+5457,Siqueira,Andrade e Filhos,Energia,458921788.14,2024-08-07,Em Due Diligence,advisor.joão@ficticio-ma.com.br
+5458,das Neves,Castro S/A,Logística,471228734.71,2024-09-26,Concluída,advisor.lucas@ficticio-ma.com.br
+5459,Araújo - EI,Moura Marques e Filhos,Logística,347072645.76,2025-04-07,Em Due Diligence,advisor.valentim@ficticio-ma.com.br
+5460,Marques e Filhos,da Cunha,Varejo,310390587.35,2024-02-07,Cancelada,advisor.rebeca@ficticio-ma.com.br
+5461,Mendes,Nascimento,Finanças,328144843.09,2023-10-11,Concluída,advisor.joão@ficticio-ma.com.br
+5462,Sales e Filhos,Leão,Logística,398611679.14,2025-05-03,Cancelada,advisor.bruna@ficticio-ma.com.br
+5463,Gomes Freitas S/A,Montenegro,Saúde,219898675.94,2025-02-15,Cancelada,advisor.théo@ficticio-ma.com.br
+5464,Cavalcante,Fonseca Machado S/A,Logística,454514141.1,2024-11-07,Cancelada,advisor.josé@ficticio-ma.com.br
+5465,Ribeiro Gonçalves Ltda.,Cardoso,Energia,253776717.08,2025-02-27,Cancelada,advisor.emanuelly@ficticio-ma.com.br
+5466,Carvalho,Barros Alves S.A.,Tecnologia,370439757.9,2023-09-25,Concluída,advisor.benicio@ficticio-ma.com.br
+5467,Peixoto,Ribeiro e Filhos,Saúde,239288750.15,2024-02-26,Análise de NDA,advisor.thales@ficticio-ma.com.br
+5468,Pires,Garcia,Logística,244215733.98,2023-10-31,Concluída,advisor.maria alice@ficticio-ma.com.br
+5469,Teixeira S/A,Aparecida Ramos S.A.,Logística,485620509.55,2026-06-17,Em Due Diligence,advisor.maitê@ficticio-ma.com.br
+5470,Casa Grande,Albuquerque,Saúde,95504790.35,2025-03-28,Concluída,advisor.raquel@ficticio-ma.com.br
+5471,Souza,Almeida,Logística,371719547.87,2025-03-05,Cancelada,advisor.enrico@ficticio-ma.com.br
+5472,Aparecida,Pereira,Tecnologia,447190611.99,2024-09-12,Cancelada,advisor.gabrielly@ficticio-ma.com.br
+5473,Nunes Cunha - EI,Casa Grande Novaes S/A,Saúde,173218841.16,2025-06-27,Cancelada,advisor.davi luiz@ficticio-ma.com.br
+5474,Barros,Pacheco,Varejo,10707834.78,2024-05-20,Concluída,advisor.luiz miguel@ficticio-ma.com.br
+5475,Nunes,Silveira S/A,Varejo,186731031.94,2026-03-26,Em Due Diligence,advisor.ana clara@ficticio-ma.com.br
+5476,da Cunha S.A.,da Luz,Energia,82682560.71,2025-05-16,Concluída,advisor.oliver@ficticio-ma.com.br
+5477,da Costa Lima S/A,Rocha,Energia,87797520.26,2025-07-19,Em Due Diligence,advisor.maria alice@ficticio-ma.com.br
+5478,Pires,Campos,Energia,197588653.3,2026-05-14,Análise de NDA,advisor.cecilia@ficticio-ma.com.br
+5479,Alves,Pacheco,Finanças,248823574.15,2024-03-07,Cancelada,advisor.maya@ficticio-ma.com.br
+5480,Carvalho,da Cunha - ME,Varejo,289424975.55,2023-10-02,Cancelada,advisor.pedro@ficticio-ma.com.br
+5481,Pimenta - EI,Alves e Filhos,Tecnologia,317674969.54,2025-02-13,Concluída,advisor.mirella@ficticio-ma.com.br
+5482,Marques,da Cruz S.A.,Varejo,183390045.77,2025-05-18,Análise de NDA,advisor.liam@ficticio-ma.com.br
+5483,Cunha e Filhos,Sampaio - EI,Varejo,431550597.5,2026-02-09,Análise de NDA,advisor.pedro henrique@ficticio-ma.com.br
+5484,Nascimento Aparecida - EI,Moura Rodrigues S.A.,Tecnologia,90525406.42,2023-11-20,Em Due Diligence,advisor.ester@ficticio-ma.com.br
+5485,Souza,Oliveira,Tecnologia,188209654.18,2024-11-25,Em Due Diligence,advisor.ravi@ficticio-ma.com.br
+5486,Sousa,Porto,Saúde,419866305.62,2024-04-25,Cancelada,advisor.emilly@ficticio-ma.com.br
+5487,Almeida,da Cunha Borges - EI,Finanças,467655876.76,2023-10-03,Concluída,advisor.joão gabriel@ficticio-ma.com.br
+5488,Vieira Sales S/A,Nascimento,Saúde,243071964.48,2024-12-15,Análise de NDA,advisor.gabriela@ficticio-ma.com.br
+5489,da Rosa Silveira Ltda.,Rezende Moreira S/A,Tecnologia,24041650.18,2026-01-02,Concluída,advisor.benjamin@ficticio-ma.com.br
+5490,Montenegro - ME,Abreu Rezende - ME,Logística,173159633.94,2025-03-31,Análise de NDA,advisor.maria vitória@ficticio-ma.com.br
+5491,Azevedo da Mota e Filhos,Duarte Souza - EI,Logística,20043712.18,2025-10-25,Análise de NDA,advisor.hadassa@ficticio-ma.com.br
+5492,Viana e Filhos,Fogaça,Varejo,142137161.9,2025-01-31,Concluída,advisor.mateus@ficticio-ma.com.br
+5493,Dias,da Mata,Tecnologia,321720448.29,2024-09-04,Concluída,advisor.catarina@ficticio-ma.com.br
+5494,Cirino Pinto Ltda.,Nascimento,Tecnologia,27653598.35,2024-09-15,Concluída,advisor.leandro@ficticio-ma.com.br
+5495,Caldeira,Rodrigues,Tecnologia,280876567.06,2024-08-23,Análise de NDA,advisor.alana@ficticio-ma.com.br
+5496,Sá,Santos - EI,Logística,186651052.28,2024-02-04,Em Due Diligence,advisor.vinicius@ficticio-ma.com.br
+5497,Pacheco Marques - ME,Souza - EI,Logística,98529237.09,2025-10-16,Cancelada,advisor.josué@ficticio-ma.com.br
+5498,Pereira Ltda.,Duarte,Finanças,470783851.11,2023-12-07,Concluída,advisor.luigi@ficticio-ma.com.br
+5499,Silveira,Rezende,Tecnologia,336151743.0,2026-05-23,Análise de NDA,advisor.eloah@ficticio-ma.com.br
+5500,Azevedo,Cunha S.A.,Tecnologia,209978343.67,2023-11-01,Análise de NDA,advisor.maria vitória@ficticio-ma.com.br
+5501,Pinto Andrade e Filhos,Silva Araújo - EI,Tecnologia,444208843.12,2026-03-12,Concluída,advisor.emanuelly@ficticio-ma.com.br
+5502,Albuquerque,Sales,Finanças,99539084.21,2026-04-19,Concluída,advisor.francisco@ficticio-ma.com.br
+5503,Costa e Filhos,Jesus,Finanças,247477174.25,2025-06-03,Análise de NDA,advisor.léo@ficticio-ma.com.br
+5504,Leão Sousa e Filhos,Mendonça Silva e Filhos,Finanças,84150138.46,2024-07-30,Análise de NDA,advisor.daniela@ficticio-ma.com.br
+5505,Dias da Conceição S/A,da Costa Ltda.,Tecnologia,382785716.93,2023-10-22,Concluída,advisor.vitória@ficticio-ma.com.br
+5506,da Cruz,das Neves,Logística,176767651.55,2025-03-17,Em Due Diligence,advisor.maria helena@ficticio-ma.com.br
+5507,Castro,Pires Ltda.,Tecnologia,369065275.65,2025-12-03,Cancelada,advisor.luiza@ficticio-ma.com.br
+5508,Fernandes - EI,Peixoto S.A.,Finanças,69328721.66,2024-02-06,Cancelada,advisor.luiz henrique@ficticio-ma.com.br
+5509,Rocha,Machado,Saúde,355047109.07,2024-03-18,Concluída,advisor.olívia@ficticio-ma.com.br
+5510,Viana,Gomes,Logística,273014005.75,2025-09-13,Análise de NDA,advisor.lorenzo@ficticio-ma.com.br
+5511,Novaes,Farias,Logística,165854602.65,2025-03-04,Concluída,advisor.ana carolina@ficticio-ma.com.br
+5512,Farias,Sales Rios S/A,Logística,112820717.82,2024-06-26,Em Due Diligence,advisor.cauê@ficticio-ma.com.br
+5513,Jesus Cassiano - EI,Araújo,Varejo,186125378.95,2025-06-27,Em Due Diligence,advisor.ana@ficticio-ma.com.br
+5514,Moraes - EI,Martins,Saúde,283996820.85,2025-01-20,Cancelada,advisor.nina@ficticio-ma.com.br
+5515,Teixeira,Mendonça,Logística,462156710.28,2024-12-24,Em Due Diligence,advisor.letícia@ficticio-ma.com.br
+5516,Cardoso,Costela,Finanças,349092447.38,2024-04-29,Em Due Diligence,advisor.antonella@ficticio-ma.com.br
+5517,Guerra,Lopes,Varejo,131739480.77,2026-01-08,Em Due Diligence,advisor.alexandre@ficticio-ma.com.br
+5518,Costela,Silva,Saúde,323594863.73,2024-10-05,Análise de NDA,advisor.bryan@ficticio-ma.com.br
+5519,Moura,Cavalcanti Cirino S.A.,Saúde,77096817.86,2025-02-18,Análise de NDA,advisor.davi@ficticio-ma.com.br
+5520,Câmara,Silveira,Energia,383971067.91,2024-06-16,Em Due Diligence,advisor.ana lívia@ficticio-ma.com.br
+5521,Montenegro Ltda.,Cavalcanti,Tecnologia,45737373.56,2023-11-08,Análise de NDA,advisor.rebeca@ficticio-ma.com.br
+5522,Siqueira,Guerra,Tecnologia,55030962.52,2026-06-13,Em Due Diligence,advisor.vicente@ficticio-ma.com.br
+5523,Marques,Souza Câmara Ltda.,Finanças,430310539.24,2026-05-20,Concluída,advisor.davi lucca@ficticio-ma.com.br
+5524,Castro,Novais,Energia,123455510.29,2024-09-27,Concluída,advisor.brenda@ficticio-ma.com.br
+5525,Mendonça S.A.,Costela - EI,Finanças,29148752.9,2023-10-15,Análise de NDA,advisor.murilo@ficticio-ma.com.br
+5526,Moura Mendonça Ltda.,Martins,Varejo,75416710.37,2024-12-26,Concluída,advisor.sarah@ficticio-ma.com.br
+5527,Mendes,Brito,Saúde,125282155.97,2025-07-30,Concluída,advisor.luiz henrique@ficticio-ma.com.br
+5528,Cavalcante,Lopes Vargas - EI,Tecnologia,252654871.19,2026-08-06,Em Due Diligence,advisor.lucas gabriel@ficticio-ma.com.br
+5529,da Rosa,Ferreira,Saúde,491791496.04,2025-09-27,Concluída,advisor.théo@ficticio-ma.com.br
+5530,Sousa S/A,Mendonça Andrade S.A.,Logística,112937921.21,2024-03-07,Análise de NDA,advisor.cauã@ficticio-ma.com.br
+5531,Abreu Cardoso Ltda.,Guerra,Varejo,424549060.67,2023-12-24,Cancelada,advisor.lucas gabriel@ficticio-ma.com.br
+5532,Pastor,Marques,Energia,339005495.01,2023-10-10,Cancelada,advisor.ana carolina@ficticio-ma.com.br
+5533,Mendes da Paz S.A.,Ferreira,Energia,131154230.28,2026-08-17,Concluída,advisor.maria alice@ficticio-ma.com.br
+5534,Correia,Porto,Tecnologia,331158842.6,2023-11-05,Em Due Diligence,advisor.letícia@ficticio-ma.com.br
+5535,da Luz,Abreu e Filhos,Logística,459029230.39,2025-05-27,Em Due Diligence,advisor.ayla@ficticio-ma.com.br
+5536,Aparecida da Cunha Ltda.,Nogueira,Logística,473878296.83,2024-05-10,Cancelada,advisor.ana julia@ficticio-ma.com.br
+5537,Borges e Filhos,Albuquerque Mendes - ME,Saúde,375900558.71,2025-09-03,Análise de NDA,advisor.alexia@ficticio-ma.com.br
+5538,Cardoso Cirino S/A,Caldeira,Tecnologia,220526935.61,2025-01-15,Análise de NDA,advisor.maria sophia@ficticio-ma.com.br
+5539,Câmara Teixeira S/A,da Costa,Saúde,219887755.29,2024-12-22,Análise de NDA,advisor.leandro@ficticio-ma.com.br
+5540,Garcia da Paz S/A,Siqueira,Tecnologia,465018261.06,2026-05-31,Em Due Diligence,advisor.levi@ficticio-ma.com.br
+5541,Caldeira Montenegro S.A.,Freitas,Energia,98536661.92,2024-02-25,Em Due Diligence,advisor.sophia@ficticio-ma.com.br
+5542,Silva,Novaes,Saúde,169888706.0,2023-09-27,Concluída,advisor.ravy@ficticio-ma.com.br
+5543,Marques,Albuquerque,Tecnologia,323028539.49,2025-07-02,Análise de NDA,advisor.caleb@ficticio-ma.com.br
+5544,Vargas Sales S/A,Abreu,Varejo,133578961.87,2024-03-17,Análise de NDA,advisor.eduardo@ficticio-ma.com.br
+5545,Rios Silva - ME,Sousa,Logística,172708559.1,2026-04-07,Em Due Diligence,advisor.esther@ficticio-ma.com.br
+5546,Garcia,Costela,Saúde,477671829.62,2025-12-24,Análise de NDA,advisor.bella@ficticio-ma.com.br
+5547,Vargas Sales - EI,Rezende Jesus S.A.,Logística,487021960.65,2025-01-14,Concluída,advisor.joão felipe@ficticio-ma.com.br
+5548,Pimenta,Cunha,Finanças,291742881.12,2025-12-18,Análise de NDA,advisor.pietro@ficticio-ma.com.br
+5549,da Conceição Ltda.,Teixeira - ME,Varejo,89865065.56,2024-03-28,Concluída,advisor.nathan@ficticio-ma.com.br
+5550,da Conceição e Filhos,Macedo S.A.,Finanças,398458606.63,2025-12-19,Análise de NDA,advisor.joão pedro@ficticio-ma.com.br
+5551,da Costa,Mendes Pereira S.A.,Varejo,205182018.74,2024-07-09,Análise de NDA,advisor.lucas@ficticio-ma.com.br
+5552,Barros,Dias,Tecnologia,363117645.0,2024-12-09,Análise de NDA,advisor.amanda@ficticio-ma.com.br
+5553,Duarte,Macedo,Energia,103133659.41,2024-11-03,Em Due Diligence,advisor.lívia@ficticio-ma.com.br
+5554,Pires,Moura Rodrigues Ltda.,Varejo,386167452.96,2026-04-18,Em Due Diligence,advisor.gael@ficticio-ma.com.br
+5555,Aparecida - ME,Cirino Ltda.,Energia,334337770.13,2025-11-24,Em Due Diligence,advisor.jade@ficticio-ma.com.br
+5556,Nogueira,Sales,Varejo,68600892.87,2025-04-03,Concluída,advisor.melissa@ficticio-ma.com.br
+5557,Pinto,Moreira Barros Ltda.,Logística,179410768.51,2024-04-26,Análise de NDA,advisor.diego@ficticio-ma.com.br
+5558,Rios Nogueira Ltda.,Siqueira S/A,Saúde,89269583.48,2026-02-01,Concluída,advisor.alice@ficticio-ma.com.br
+5559,Cavalcante Ramos S.A.,Gonçalves S.A.,Energia,395050017.84,2026-09-05,Cancelada,advisor.maria@ficticio-ma.com.br
+5560,Rocha Castro S.A.,Duarte - ME,Finanças,103691226.93,2025-01-07,Em Due Diligence,advisor.maria@ficticio-ma.com.br
+5561,Brito e Filhos,da Paz S.A.,Finanças,420089819.07,2025-11-13,Análise de NDA,advisor.dom@ficticio-ma.com.br
+5562,Nunes,Lima S.A.,Energia,280111788.33,2024-04-11,Cancelada,advisor.vitória@ficticio-ma.com.br
+5563,Farias Moreira e Filhos,Lima,Varejo,220393277.6,2024-05-29,Em Due Diligence,advisor.joão lucas@ficticio-ma.com.br
+5564,Pastor,Gomes - EI,Tecnologia,78438377.33,2023-10-30,Análise de NDA,advisor.davi lucca@ficticio-ma.com.br
+5565,Cirino - ME,Barros,Logística,360249069.62,2025-06-02,Análise de NDA,advisor.ravy@ficticio-ma.com.br
+5566,Novais Rocha S.A.,Sá,Finanças,308910341.58,2025-10-10,Em Due Diligence,advisor.luna@ficticio-ma.com.br
+5567,da Rocha - EI,Viana S/A,Finanças,172051738.83,2026-04-09,Concluída,advisor.kaique@ficticio-ma.com.br
+5568,Rocha,da Conceição - EI,Saúde,40564716.79,2025-04-10,Em Due Diligence,advisor.nina@ficticio-ma.com.br
+5569,Lopes,Câmara Lopes Ltda.,Saúde,150285815.29,2024-03-15,Cancelada,advisor.ana julia@ficticio-ma.com.br
+5570,Abreu,Andrade Cirino S.A.,Finanças,244800670.22,2024-11-24,Em Due Diligence,advisor.gabriela@ficticio-ma.com.br
+5571,Leão,Barros Silveira e Filhos,Tecnologia,271557677.71,2026-01-17,Em Due Diligence,advisor.luiz gustavo@ficticio-ma.com.br
+5572,Almeida,da Rosa Araújo S/A,Tecnologia,467740399.73,2024-08-31,Em Due Diligence,advisor.amanda@ficticio-ma.com.br
+5573,Cunha S/A,Câmara - EI,Tecnologia,313939215.04,2025-06-29,Cancelada,advisor.maria júlia@ficticio-ma.com.br
+5574,da Mota Pastor - EI,Cirino,Varejo,348069361.76,2024-05-07,Concluída,advisor.maria clara@ficticio-ma.com.br
+5575,da Conceição,Aparecida,Tecnologia,428912534.29,2024-06-17,Cancelada,advisor.joão@ficticio-ma.com.br
+5576,Cavalcanti Andrade - EI,Araújo,Energia,43763589.48,2026-07-24,Em Due Diligence,advisor.matheus@ficticio-ma.com.br
+5577,Correia Castro - EI,Viana,Finanças,444469967.93,2025-08-24,Cancelada,advisor.sophie@ficticio-ma.com.br
+5578,Mendonça,Novais S/A,Logística,361158048.98,2023-09-28,Em Due Diligence,advisor.giovanna@ficticio-ma.com.br
+5579,Alves Sá Ltda.,Peixoto,Logística,74180257.87,2026-03-12,Em Due Diligence,advisor.luísa@ficticio-ma.com.br
+5580,Souza Campos e Filhos,da Costa da Luz - ME,Saúde,143428398.79,2026-04-12,Cancelada,advisor.igor@ficticio-ma.com.br
+5581,da Costa,Vieira,Tecnologia,358360605.24,2024-09-28,Em Due Diligence,advisor.calebe@ficticio-ma.com.br
+5582,Freitas Marques S.A.,Pereira,Tecnologia,187795935.24,2024-10-17,Em Due Diligence,advisor.luiz felipe@ficticio-ma.com.br
+5583,Farias,Moura,Saúde,274691407.58,2026-06-30,Cancelada,advisor.maya@ficticio-ma.com.br
+5584,da Mota,Nogueira S/A,Varejo,436612993.84,2026-06-13,Análise de NDA,advisor.raquel@ficticio-ma.com.br
+5585,Albuquerque,Vieira Pimenta - EI,Tecnologia,33722829.19,2024-06-09,Cancelada,advisor.laís@ficticio-ma.com.br
+5586,Lopes,Guerra,Tecnologia,83518363.82,2024-10-20,Cancelada,advisor.gabrielly@ficticio-ma.com.br
+5587,Lopes,da Luz,Varejo,80857766.48,2025-09-19,Concluída,advisor.nina@ficticio-ma.com.br
+5588,Cavalcanti,Moreira Barbosa S.A.,Varejo,315891404.73,2025-05-17,Análise de NDA,advisor.alice@ficticio-ma.com.br
+5589,Costela,Peixoto,Varejo,217607558.6,2026-02-11,Concluída,advisor.léo@ficticio-ma.com.br
+5590,Almeida,Câmara Ltda.,Logística,45163173.0,2025-07-26,Cancelada,advisor.luara@ficticio-ma.com.br
+5591,Porto,Cassiano Porto Ltda.,Finanças,257926473.46,2026-08-27,Em Due Diligence,advisor.kevin@ficticio-ma.com.br
+5592,Freitas S.A.,Moreira,Energia,469821831.09,2023-09-28,Análise de NDA,advisor.manuella@ficticio-ma.com.br
+5593,Cavalcante - EI,Pimenta,Logística,463833495.04,2025-08-21,Análise de NDA,advisor.clarice@ficticio-ma.com.br
+5594,Teixeira - EI,Aparecida,Varejo,490818222.33,2026-06-13,Concluída,advisor.hadassa@ficticio-ma.com.br
+5595,Melo,Machado - EI,Varejo,386314184.06,2025-07-31,Em Due Diligence,advisor.pedro henrique@ficticio-ma.com.br
+5596,Castro,Montenegro Mendonça Ltda.,Varejo,220171408.9,2025-04-27,Análise de NDA,advisor.gustavo@ficticio-ma.com.br
+5597,Teixeira Oliveira S.A.,Nascimento,Tecnologia,219773805.22,2024-12-16,Em Due Diligence,advisor.josé pedro@ficticio-ma.com.br
+5598,Cunha - ME,Moreira,Saúde,55129724.68,2024-02-28,Concluída,advisor.henry@ficticio-ma.com.br
+5599,Machado,Viana Souza - ME,Tecnologia,41726147.92,2025-04-30,Análise de NDA,advisor.josé pedro@ficticio-ma.com.br
+5600,da Paz,Castro Marques Ltda.,Logística,486448430.39,2025-11-05,Em Due Diligence,advisor.laís@ficticio-ma.com.br
+5601,Gonçalves Rodrigues Ltda.,Pastor,Saúde,83713556.94,2025-12-24,Análise de NDA,advisor.ana sophia@ficticio-ma.com.br
+5602,Vargas da Luz e Filhos,Lima,Varejo,131125894.64,2025-01-01,Concluída,advisor.ágatha@ficticio-ma.com.br
+5603,Almeida,Ferreira - EI,Saúde,283597635.69,2026-02-08,Em Due Diligence,advisor.camila@ficticio-ma.com.br
+5604,Dias,da Cunha da Rocha - EI,Finanças,211376955.63,2024-09-20,Concluída,advisor.ágatha@ficticio-ma.com.br
+5605,da Rocha,Pastor Cirino - ME,Logística,397620467.02,2024-05-16,Em Due Diligence,advisor.anthony gabriel@ficticio-ma.com.br
+5606,Correia,Nogueira Monteiro Ltda.,Tecnologia,495855000.62,2026-08-21,Cancelada,advisor.amanda@ficticio-ma.com.br
+5607,Araújo da Costa - EI,Vargas,Finanças,374463301.95,2026-03-29,Em Due Diligence,advisor.leonardo@ficticio-ma.com.br
+5608,Pimenta,Fernandes,Energia,245447867.72,2025-11-28,Análise de NDA,advisor.matteo@ficticio-ma.com.br
+5609,Freitas,Lima,Varejo,297730734.59,2025-09-19,Análise de NDA,advisor.rafael@ficticio-ma.com.br
+5610,Novaes - ME,Albuquerque,Logística,380755377.18,2024-11-21,Cancelada,advisor.levi@ficticio-ma.com.br
+5611,Rezende,Moraes,Varejo,71299529.54,2026-08-24,Cancelada,advisor.laís@ficticio-ma.com.br
+5612,da Rosa S.A.,Leão Pimenta S.A.,Tecnologia,256549278.49,2024-10-10,Concluída,advisor.laís@ficticio-ma.com.br
+5613,Azevedo,da Rocha,Tecnologia,16131102.35,2024-09-30,Concluída,advisor.andré@ficticio-ma.com.br
+5614,Santos da Rocha - EI,Cassiano,Tecnologia,377815484.3,2025-06-06,Em Due Diligence,advisor.zoe@ficticio-ma.com.br
+5615,da Paz - EI,Viana Camargo S/A,Tecnologia,77763473.94,2024-11-02,Análise de NDA,advisor.kevin@ficticio-ma.com.br
+5616,Rezende,da Mata,Finanças,12715061.12,2026-03-24,Em Due Diligence,advisor.hadassa@ficticio-ma.com.br
+5617,Campos Pinto S/A,Pimenta e Filhos,Saúde,115197333.78,2025-05-15,Análise de NDA,advisor.júlia@ficticio-ma.com.br
+5618,da Paz - EI,Câmara S.A.,Varejo,355545629.36,2025-12-16,Cancelada,advisor.gael henrique@ficticio-ma.com.br
+5619,Rezende Cassiano - ME,Guerra,Saúde,138117740.55,2026-07-29,Concluída,advisor.nathan@ficticio-ma.com.br
+5620,Macedo e Filhos,Siqueira Pires - ME,Saúde,493972319.55,2025-06-02,Análise de NDA,advisor.erick@ficticio-ma.com.br
+5621,Carvalho S/A,Costa,Finanças,71540648.21,2024-04-29,Cancelada,advisor.maria luísa@ficticio-ma.com.br
+5622,da Rosa S/A,Cavalcanti,Varejo,252180424.77,2025-09-07,Cancelada,advisor.matheus@ficticio-ma.com.br
+5623,Costa Siqueira S/A,Araújo,Tecnologia,98285574.0,2025-03-23,Cancelada,advisor.marcelo@ficticio-ma.com.br
+5624,Pimenta,Abreu,Tecnologia,117122963.65,2024-02-24,Concluída,advisor.sofia@ficticio-ma.com.br
+5625,Farias S/A,Nunes,Logística,349880437.51,2025-09-07,Análise de NDA,advisor.amanda@ficticio-ma.com.br
+5626,da Rocha Rezende S.A.,Moreira,Finanças,382529498.31,2026-06-14,Concluída,advisor.joão lucas@ficticio-ma.com.br
+5627,Viana,Rios,Varejo,26546315.22,2026-03-24,Análise de NDA,advisor.pedro miguel@ficticio-ma.com.br
+5628,Costela - ME,Sousa - ME,Varejo,216854199.39,2026-03-09,Cancelada,advisor.noah@ficticio-ma.com.br
+5629,Santos,Costela S/A,Energia,77041299.07,2024-07-20,Em Due Diligence,advisor.luiz miguel@ficticio-ma.com.br
+5630,Garcia Campos e Filhos,Machado,Saúde,113214502.43,2024-04-21,Em Due Diligence,advisor.nina@ficticio-ma.com.br
+5631,Cassiano S/A,Albuquerque Fernandes - EI,Varejo,175912697.89,2024-04-08,Análise de NDA,advisor.gustavo henrique@ficticio-ma.com.br
+5632,Costa Ltda.,Camargo Pereira - EI,Energia,53385998.9,2026-01-21,Em Due Diligence,advisor.matheus@ficticio-ma.com.br
+5633,Ramos,Sá Albuquerque S/A,Varejo,468191701.13,2026-03-29,Análise de NDA,advisor.benicio@ficticio-ma.com.br
+5634,da Luz Pires e Filhos,Novais Rios e Filhos,Varejo,285280812.38,2025-12-26,Cancelada,advisor.sarah@ficticio-ma.com.br
+5635,Silva Fogaça S.A.,Freitas,Finanças,356428552.12,2023-11-17,Cancelada,advisor.gael@ficticio-ma.com.br
+5636,da Mota Ltda.,Dias - EI,Saúde,110935148.11,2025-02-22,Análise de NDA,advisor.bella@ficticio-ma.com.br
+5637,Araújo,Novais,Saúde,204016649.88,2026-08-30,Em Due Diligence,advisor.liz@ficticio-ma.com.br
+5638,Pinto,Souza Camargo e Filhos,Logística,214458192.09,2023-10-14,Análise de NDA,advisor.luiz otávio@ficticio-ma.com.br
+5639,da Cunha,Mendonça - ME,Tecnologia,493222550.41,2023-11-07,Em Due Diligence,advisor.maria@ficticio-ma.com.br
+5640,Duarte Ltda.,Casa Grande,Logística,114856233.73,2024-07-22,Cancelada,advisor.luiza@ficticio-ma.com.br
+5641,Novaes,Fernandes,Finanças,429669725.43,2026-04-08,Análise de NDA,advisor.maria@ficticio-ma.com.br
+5642,Nascimento S/A,da Rosa Ltda.,Varejo,417939559.93,2025-08-26,Cancelada,advisor.davi@ficticio-ma.com.br
+5643,Siqueira e Filhos,Camargo - ME,Energia,112737552.1,2024-04-22,Em Due Diligence,advisor.danilo@ficticio-ma.com.br
+5644,Silveira Monteiro e Filhos,Fonseca,Energia,108735332.81,2024-03-13,Concluída,advisor.isadora@ficticio-ma.com.br
+5645,Moreira,Novais Almeida S.A.,Energia,316020084.22,2026-06-19,Análise de NDA,advisor.pedro henrique@ficticio-ma.com.br
+5646,Cirino e Filhos,Almeida S/A,Varejo,281571042.26,2025-04-17,Análise de NDA,advisor.ana vitória@ficticio-ma.com.br
+5647,Silveira,Mendonça Ltda.,Varejo,224551769.62,2024-08-29,Análise de NDA,advisor.heloisa@ficticio-ma.com.br
+5648,da Costa Fonseca S/A,Brito,Varejo,303480832.08,2023-11-05,Concluída,advisor.joão guilherme@ficticio-ma.com.br
+5649,Siqueira,Vasconcelos,Logística,88076202.43,2025-10-11,Análise de NDA,advisor.vitor@ficticio-ma.com.br
+5650,Vargas,Montenegro Nunes S.A.,Varejo,24247574.63,2026-01-06,Análise de NDA,advisor.andré@ficticio-ma.com.br
+5651,Mendonça,Caldeira Macedo S/A,Saúde,47870856.43,2024-09-03,Concluída,advisor.larissa@ficticio-ma.com.br
+5652,Camargo da Cunha S/A,Nascimento,Varejo,98132827.63,2025-10-16,Em Due Diligence,advisor.apollo@ficticio-ma.com.br
+5653,Montenegro,da Costa,Varejo,154362564.47,2024-09-06,Cancelada,advisor.enzo@ficticio-ma.com.br
+5654,da Rosa Sousa S/A,Carvalho,Finanças,10576221.25,2024-03-17,Análise de NDA,advisor.josé@ficticio-ma.com.br
+5655,da Cruz,Guerra Carvalho Ltda.,Finanças,245599236.2,2023-11-08,Cancelada,advisor.alícia@ficticio-ma.com.br
+5656,Azevedo,Sampaio,Saúde,370960238.34,2023-11-17,Concluída,advisor.ana laura@ficticio-ma.com.br
+5657,Borges Novaes e Filhos,Fonseca,Varejo,76622944.3,2026-03-06,Análise de NDA,advisor.allana@ficticio-ma.com.br
+5658,Macedo e Filhos,Pastor - ME,Varejo,263122072.23,2025-06-07,Análise de NDA,advisor.fernanda@ficticio-ma.com.br
+5659,Cunha,Caldeira Gonçalves - ME,Saúde,417412432.27,2025-04-13,Análise de NDA,advisor.gustavo henrique@ficticio-ma.com.br
+5660,Nunes S/A,Araújo Nunes - ME,Varejo,438897342.38,2026-07-02,Concluída,advisor.cauã@ficticio-ma.com.br
+5661,Moraes,Araújo,Tecnologia,17569722.55,2026-05-19,Análise de NDA,advisor.vinícius@ficticio-ma.com.br
+5662,Fogaça Nascimento S/A,Ramos,Energia,215668544.34,2026-04-25,Cancelada,advisor.maysa@ficticio-ma.com.br
+5663,Pinto Nascimento - EI,Pires S/A,Varejo,384266123.33,2024-11-02,Análise de NDA,advisor.catarina@ficticio-ma.com.br
+5664,Castro,Montenegro,Energia,81012409.11,2025-11-12,Análise de NDA,advisor.pedro henrique@ficticio-ma.com.br
+5665,da Cunha,da Rosa Ltda.,Varejo,261993706.51,2024-01-07,Cancelada,advisor.maysa@ficticio-ma.com.br
+5666,Camargo - EI,Pires Sales e Filhos,Tecnologia,464917080.37,2025-05-20,Análise de NDA,advisor.luiz henrique@ficticio-ma.com.br
+5667,Guerra,Costela S/A,Finanças,316222017.48,2025-05-09,Análise de NDA,advisor.sarah@ficticio-ma.com.br
+5668,Aparecida,Peixoto,Finanças,279112712.13,2024-03-18,Análise de NDA,advisor.theodoro@ficticio-ma.com.br
+5669,Souza - EI,Aparecida Gonçalves - EI,Finanças,112971971.66,2026-07-18,Cancelada,advisor.thales@ficticio-ma.com.br
+5670,Alves Gonçalves - ME,Pereira Sousa - ME,Varejo,450740763.06,2024-09-20,Análise de NDA,advisor.igor@ficticio-ma.com.br
+5671,Correia,Nogueira,Saúde,151929825.96,2026-05-15,Em Due Diligence,advisor.aurora@ficticio-ma.com.br
+5672,Casa Grande Ltda.,Albuquerque Souza e Filhos,Saúde,148893814.48,2026-06-28,Em Due Diligence,advisor.manuella@ficticio-ma.com.br
+5673,Ribeiro Correia S/A,Gonçalves,Saúde,394809428.73,2024-01-10,Cancelada,advisor.alexandre@ficticio-ma.com.br
+5674,Casa Grande da Costa - EI,Câmara Sampaio - ME,Energia,410410637.38,2025-03-04,Concluída,advisor.liam@ficticio-ma.com.br
+5675,Vasconcelos,Cavalcante,Tecnologia,321838817.42,2026-03-30,Cancelada,advisor.lucas gabriel@ficticio-ma.com.br
+5676,Aragão,Mendonça - ME,Tecnologia,341678373.08,2026-06-14,Concluída,advisor.lorenzo@ficticio-ma.com.br
+5677,Borges,Ramos,Varejo,299796216.85,2025-05-12,Em Due Diligence,advisor.aylla@ficticio-ma.com.br
+5678,Correia,Leão S.A.,Saúde,18592667.33,2024-04-19,Concluída,advisor.ana lívia@ficticio-ma.com.br
+5679,Ramos Peixoto Ltda.,Pastor,Tecnologia,378493045.23,2025-06-20,Análise de NDA,advisor.gustavo@ficticio-ma.com.br
+5680,Albuquerque S.A.,Melo,Energia,392144656.12,2025-07-14,Em Due Diligence,advisor.davi lucas@ficticio-ma.com.br
+5681,da Rocha Pacheco S.A.,Duarte,Energia,294387331.14,2025-10-18,Em Due Diligence,advisor.maria@ficticio-ma.com.br
+5682,da Rocha Casa Grande e Filhos,Cunha,Tecnologia,410849073.78,2024-04-30,Análise de NDA,advisor.breno@ficticio-ma.com.br
+5683,Guerra,Azevedo Rodrigues S/A,Tecnologia,465991285.82,2025-12-13,Cancelada,advisor.helena@ficticio-ma.com.br
+5684,Cavalcanti e Filhos,Martins - ME,Saúde,140345297.98,2024-03-07,Concluída,advisor.isabela@ficticio-ma.com.br
+5685,Fonseca Moreira e Filhos,Novais Ltda.,Tecnologia,408309319.6,2025-02-18,Análise de NDA,advisor.hadassa@ficticio-ma.com.br
+5686,Novaes Duarte S.A.,Teixeira S.A.,Energia,401436487.52,2024-04-13,Em Due Diligence,advisor.léo@ficticio-ma.com.br
+5687,Dias,Gomes,Energia,27748598.73,2026-01-03,Cancelada,advisor.jade@ficticio-ma.com.br
+5688,Lopes,Barros,Tecnologia,469180081.39,2024-09-03,Em Due Diligence,advisor.maria júlia@ficticio-ma.com.br
+5689,Araújo,Fogaça - EI,Finanças,466617922.91,2025-06-23,Cancelada,advisor.cecília@ficticio-ma.com.br
+5690,Dias,Aragão Santos - ME,Tecnologia,88832799.82,2024-10-09,Análise de NDA,advisor.isadora@ficticio-ma.com.br
+5691,da Cunha Brito S/A,Câmara Gonçalves S.A.,Varejo,374211137.55,2024-09-29,Cancelada,advisor.ana beatriz@ficticio-ma.com.br
+5692,da Luz Ltda.,Sampaio S/A,Energia,439593254.6,2025-10-19,Concluída,advisor.henry@ficticio-ma.com.br
+5693,Gomes Nunes e Filhos,Lima,Varejo,9154362.87,2026-02-11,Concluída,advisor.heitor@ficticio-ma.com.br
+5694,Sousa,Novaes - ME,Energia,434459364.46,2024-01-09,Análise de NDA,advisor.vicente@ficticio-ma.com.br
+5695,Viana Guerra - EI,Fernandes,Tecnologia,308451256.82,2024-08-22,Cancelada,advisor.antônio@ficticio-ma.com.br
+5696,Lima,Rios Sampaio S.A.,Finanças,406273380.18,2023-10-31,Em Due Diligence,advisor.nicolas@ficticio-ma.com.br
+5697,Pacheco e Filhos,Vieira Nascimento Ltda.,Energia,240187378.12,2024-10-15,Análise de NDA,advisor.levi@ficticio-ma.com.br
+5698,Casa Grande,da Mota,Tecnologia,426326616.07,2026-01-21,Análise de NDA,advisor.mariana@ficticio-ma.com.br
+5699,da Paz,das Neves - ME,Varejo,374107401.09,2026-03-07,Em Due Diligence,advisor.evelyn@ficticio-ma.com.br
+5700,Fonseca Alves - ME,Ramos,Energia,181150994.31,2024-01-15,Em Due Diligence,advisor.mariane@ficticio-ma.com.br
+5701,da Cunha - EI,Campos,Energia,135989797.87,2026-01-24,Cancelada,advisor.valentina@ficticio-ma.com.br
+5702,Castro S.A.,Leão Souza S/A,Energia,99050094.92,2026-06-30,Concluída,advisor.diego@ficticio-ma.com.br
+5703,das Neves,Cavalcante,Saúde,371841275.29,2024-10-18,Análise de NDA,advisor.anna liz@ficticio-ma.com.br
+5704,Duarte Ribeiro S/A,Siqueira,Energia,85880957.26,2023-11-13,Concluída,advisor.catarina@ficticio-ma.com.br
+5705,Albuquerque Sousa - ME,Rezende,Tecnologia,322817530.73,2025-01-14,Concluída,advisor.cecilia@ficticio-ma.com.br
+5706,Barros - ME,Sá - ME,Tecnologia,320680843.41,2023-12-27,Em Due Diligence,advisor.mateus@ficticio-ma.com.br
+5707,Mendonça,Brito Monteiro - EI,Energia,428026889.18,2025-06-30,Cancelada,advisor.ravi lucca@ficticio-ma.com.br
+5708,Mendonça Araújo - ME,Martins - ME,Finanças,314069939.48,2025-09-19,Em Due Diligence,advisor.isaac@ficticio-ma.com.br
+5709,Vieira,da Paz e Filhos,Saúde,256736581.9,2025-04-19,Análise de NDA,advisor.ester@ficticio-ma.com.br
+5710,Santos,Cavalcante Novaes - EI,Varejo,63876729.36,2025-07-10,Em Due Diligence,advisor.luna@ficticio-ma.com.br
+5711,Rocha,Siqueira,Varejo,207955701.36,2025-10-23,Análise de NDA,advisor.hellena@ficticio-ma.com.br
+5712,Caldeira,Souza,Energia,294969309.97,2026-03-24,Cancelada,advisor.leandro@ficticio-ma.com.br
+5713,Lima,Oliveira e Filhos,Tecnologia,273992892.86,2026-06-20,Concluída,advisor.alícia@ficticio-ma.com.br
+5714,Pacheco,Viana Pimenta - EI,Varejo,30666607.37,2025-06-24,Concluída,advisor.ana vitória@ficticio-ma.com.br
+5715,Porto Costa e Filhos,Pinto,Logística,436851071.32,2024-06-10,Em Due Diligence,advisor.francisco@ficticio-ma.com.br
+5716,Mendes Moraes e Filhos,Mendes,Energia,15617971.0,2025-06-16,Concluída,advisor.emanuel@ficticio-ma.com.br
+5717,Souza,Monteiro,Finanças,84715174.1,2026-04-27,Concluída,advisor.benício@ficticio-ma.com.br
+5718,Sales,Santos,Energia,300974672.88,2023-12-07,Concluída,advisor.dom@ficticio-ma.com.br
+5719,Cassiano,Alves Cavalcante S.A.,Logística,109237842.43,2024-03-24,Cancelada,advisor.raquel@ficticio-ma.com.br
+5720,Nunes S/A,Brito S.A.,Finanças,347160268.19,2025-05-20,Em Due Diligence,advisor.mariah@ficticio-ma.com.br
+5721,Gomes Azevedo S.A.,Rios Fonseca - ME,Energia,86716114.06,2026-09-18,Concluída,advisor.mariah@ficticio-ma.com.br
+5722,Aparecida - EI,da Mota - EI,Tecnologia,446867778.57,2025-02-20,Cancelada,advisor.sofia@ficticio-ma.com.br
+5723,Campos,da Conceição,Tecnologia,287689438.68,2024-11-09,Concluída,advisor.pedro@ficticio-ma.com.br
+5724,Pimenta,Araújo,Varejo,44493042.09,2025-02-08,Concluída,advisor.rael@ficticio-ma.com.br
+5725,Rezende S/A,Melo S.A.,Finanças,400562717.79,2025-11-02,Concluída,advisor.júlia@ficticio-ma.com.br
+5726,da Conceição Machado - EI,Nogueira Castro - EI,Energia,84026474.47,2026-02-20,Concluída,advisor.luan@ficticio-ma.com.br
+5727,da Rocha,Fonseca,Varejo,477408477.52,2025-06-29,Em Due Diligence,advisor.davi miguel@ficticio-ma.com.br
+5728,Cassiano,Marques da Conceição e Filhos,Logística,76192956.34,2025-11-20,Cancelada,advisor.vinicius@ficticio-ma.com.br
+5729,Ramos,Farias Andrade - EI,Energia,330057857.17,2024-03-05,Concluída,advisor.apollo@ficticio-ma.com.br
+5730,Monteiro,Costa Pires - EI,Saúde,74982652.67,2024-10-19,Análise de NDA,advisor.giovanna@ficticio-ma.com.br
+5731,Oliveira Albuquerque - EI,Barbosa,Varejo,392465501.55,2025-02-26,Análise de NDA,advisor.nina@ficticio-ma.com.br
+5732,Guerra - EI,Souza Ltda.,Saúde,281055050.91,2025-01-21,Concluída,advisor.ana clara@ficticio-ma.com.br
+5733,Ramos Macedo S.A.,Sousa S/A,Varejo,425673524.47,2025-04-24,Concluída,advisor.clara@ficticio-ma.com.br
+5734,Silva,da Cruz,Tecnologia,85366508.05,2024-03-14,Em Due Diligence,advisor.calebe@ficticio-ma.com.br
+5735,Mendes,Aragão,Energia,49742590.32,2024-12-04,Cancelada,advisor.isadora@ficticio-ma.com.br
+5736,Almeida,Gonçalves,Finanças,134128649.57,2025-08-23,Cancelada,advisor.juliana@ficticio-ma.com.br
+5737,Alves Freitas - EI,Novais S.A.,Finanças,343916487.64,2023-10-25,Em Due Diligence,advisor.pedro@ficticio-ma.com.br
+5738,Dias,Lima,Logística,198386627.78,2025-11-12,Cancelada,advisor.renan@ficticio-ma.com.br
+5739,Rios,Cassiano Moreira - ME,Saúde,231088859.45,2025-05-25,Análise de NDA,advisor.rafael@ficticio-ma.com.br
+5740,Porto,Campos Câmara - EI,Tecnologia,465504384.02,2024-07-06,Concluída,advisor.isadora@ficticio-ma.com.br
+5741,Albuquerque S.A.,Pastor,Logística,51377695.13,2026-05-24,Análise de NDA,advisor.isaac@ficticio-ma.com.br
+5742,da Luz Novaes S.A.,Sousa,Energia,107418890.24,2024-08-22,Concluída,advisor.ana lívia@ficticio-ma.com.br
+5743,da Mota Correia S.A.,Cavalcante - ME,Saúde,480844939.32,2023-12-07,Cancelada,advisor.bernardo@ficticio-ma.com.br
+5744,Câmara e Filhos,da Conceição,Tecnologia,142004374.76,2024-02-22,Em Due Diligence,advisor.laura@ficticio-ma.com.br
+5745,Cavalcante e Filhos,Lopes Castro e Filhos,Logística,180745781.95,2024-11-13,Concluída,advisor.daniela@ficticio-ma.com.br
+5746,Souza,da Luz - ME,Logística,97137362.64,2024-05-02,Cancelada,advisor.maria cecília@ficticio-ma.com.br
+5747,Sousa,Barros Ramos Ltda.,Energia,193021887.84,2023-10-22,Em Due Diligence,advisor.joão@ficticio-ma.com.br
+5748,Cardoso,da Paz Melo S/A,Saúde,7390804.23,2024-08-14,Análise de NDA,advisor.arthur miguel@ficticio-ma.com.br
+5749,Teixeira Viana e Filhos,da Costa,Finanças,62932201.35,2025-09-06,Análise de NDA,advisor.emanuel@ficticio-ma.com.br
+5750,Nascimento,Aragão Marques S/A,Logística,191243758.8,2026-05-07,Em Due Diligence,advisor.josé@ficticio-ma.com.br
+5751,Borges e Filhos,Alves,Logística,178755765.55,2026-07-11,Em Due Diligence,advisor.gabrielly@ficticio-ma.com.br
+5752,Fernandes,Barros Pacheco - EI,Saúde,196234841.99,2023-09-28,Cancelada,advisor.bianca@ficticio-ma.com.br
+5753,Camargo,da Cruz - EI,Finanças,309099754.12,2025-02-24,Em Due Diligence,advisor.ana vitória@ficticio-ma.com.br
+5754,Pimenta,Azevedo,Varejo,467069378.89,2024-05-08,Concluída,advisor.ana sophia@ficticio-ma.com.br
+5755,Rios,Moura Sales - ME,Finanças,84262342.9,2025-12-27,Análise de NDA,advisor.isadora@ficticio-ma.com.br
+5756,Santos Ltda.,Farias Costela Ltda.,Tecnologia,463261029.04,2024-08-26,Análise de NDA,advisor.samuel@ficticio-ma.com.br
+5757,Leão,Silveira,Tecnologia,437767469.99,2025-12-07,Em Due Diligence,advisor.vitor hugo@ficticio-ma.com.br
+5758,Correia,Montenegro,Energia,100359543.91,2025-06-08,Cancelada,advisor.thiago@ficticio-ma.com.br
+5759,Martins - EI,Ribeiro,Energia,282884237.1,2026-07-02,Em Due Diligence,advisor.isaque@ficticio-ma.com.br
+5760,Jesus,Campos,Energia,217857567.17,2025-02-15,Cancelada,advisor.heloísa@ficticio-ma.com.br
+5761,Sales,Farias Brito e Filhos,Finanças,116129509.92,2025-04-22,Análise de NDA,advisor.evelyn@ficticio-ma.com.br
+5762,da Mota,Monteiro,Logística,193609057.83,2024-09-21,Análise de NDA,advisor.ryan@ficticio-ma.com.br
+5763,Pires,da Rosa,Tecnologia,222350574.5,2026-04-14,Concluída,advisor.isis@ficticio-ma.com.br
+5764,Leão Silveira - EI,da Rosa Macedo e Filhos,Varejo,420053876.24,2024-07-05,Concluída,advisor.lunna@ficticio-ma.com.br
+5765,Macedo,Correia,Energia,232590371.88,2023-12-02,Cancelada,advisor.ana clara@ficticio-ma.com.br
+5766,Peixoto,Rodrigues,Tecnologia,327921953.65,2023-10-03,Análise de NDA,advisor.antonella@ficticio-ma.com.br
+5767,Novais Rezende S/A,Nunes Montenegro Ltda.,Saúde,376638843.68,2024-09-22,Análise de NDA,advisor.luiza@ficticio-ma.com.br
+5768,Rocha,Almeida Alves Ltda.,Finanças,290510678.87,2023-12-18,Concluída,advisor.vitor@ficticio-ma.com.br
+5769,Fonseca e Filhos,Teixeira,Tecnologia,369845345.61,2024-03-12,Concluída,advisor.alexia@ficticio-ma.com.br
+5770,Araújo,Moreira,Tecnologia,209913249.38,2024-12-11,Análise de NDA,advisor.marcos vinicius@ficticio-ma.com.br
+5771,Rezende S.A.,Caldeira,Finanças,133312700.51,2024-03-31,Concluída,advisor.beatriz@ficticio-ma.com.br
+5772,Andrade,Rodrigues,Finanças,447415308.63,2026-02-09,Cancelada,advisor.eduarda@ficticio-ma.com.br
+5773,Correia,Montenegro Ltda.,Tecnologia,38411777.37,2023-10-27,Em Due Diligence,advisor.gustavo henrique@ficticio-ma.com.br
+5774,Sales - EI,Martins S/A,Finanças,142065166.66,2025-01-20,Cancelada,advisor.eloah@ficticio-ma.com.br
+5775,Borges Câmara S/A,Monteiro Ltda.,Energia,390086849.83,2024-11-23,Concluída,advisor.francisco@ficticio-ma.com.br
+5776,Cavalcante,Rezende Ltda.,Tecnologia,362655402.01,2023-11-09,Concluída,advisor.bianca@ficticio-ma.com.br
+5777,Vargas,Moreira,Energia,134977871.61,2026-01-14,Cancelada,advisor.olívia@ficticio-ma.com.br
+5778,Cunha Cardoso Ltda.,Teixeira e Filhos,Energia,423684512.6,2025-10-20,Análise de NDA,advisor.manuella@ficticio-ma.com.br
+5779,Rodrigues - ME,Rocha Garcia e Filhos,Saúde,330745501.71,2025-05-10,Em Due Diligence,advisor.brayan@ficticio-ma.com.br
+5780,da Costa Ltda.,Mendonça,Energia,19073520.82,2025-03-22,Cancelada,advisor.lucas@ficticio-ma.com.br
+5781,Barros Rios S/A,Rodrigues,Finanças,313611608.82,2026-04-28,Cancelada,advisor.carlos eduardo@ficticio-ma.com.br
+5782,Vargas,Jesus,Energia,254517197.44,2023-11-27,Análise de NDA,advisor.caroline@ficticio-ma.com.br
+5783,Sá - ME,Marques Moura Ltda.,Energia,477975804.44,2024-05-06,Análise de NDA,advisor.ravy@ficticio-ma.com.br
+5784,da Rocha S.A.,Andrade,Logística,421405779.94,2025-03-13,Concluída,advisor.ian@ficticio-ma.com.br
+5785,Costela - ME,Castro da Rosa S.A.,Energia,410900722.91,2024-06-08,Concluída,advisor.joão@ficticio-ma.com.br
+5786,Monteiro,Teixeira,Finanças,10968708.54,2025-04-28,Em Due Diligence,advisor.olivia@ficticio-ma.com.br
+5787,das Neves,Caldeira Ltda.,Finanças,225738159.07,2023-11-13,Em Due Diligence,advisor.allana@ficticio-ma.com.br
+5788,Pacheco,Sá S/A,Finanças,39243111.44,2025-09-24,Cancelada,advisor.yuri@ficticio-ma.com.br
+5789,Melo da Rosa e Filhos,Melo,Saúde,181986075.32,2024-06-06,Análise de NDA,advisor.gabriel@ficticio-ma.com.br
+5790,Novaes Ltda.,Moura Ltda.,Finanças,100809859.48,2026-08-15,Em Due Diligence,advisor.luiz felipe@ficticio-ma.com.br
+5791,Lima,Albuquerque das Neves e Filhos,Tecnologia,43244795.95,2024-11-22,Análise de NDA,advisor.milena@ficticio-ma.com.br
+5792,Fonseca da Costa S/A,Barbosa Costela S/A,Saúde,73582011.78,2024-04-19,Análise de NDA,advisor.mateus@ficticio-ma.com.br
+5793,Aparecida - ME,Viana Casa Grande Ltda.,Saúde,247748340.43,2024-10-25,Concluída,advisor.vitor hugo@ficticio-ma.com.br
+5794,Pereira,Pacheco - EI,Energia,268564226.93,2025-02-02,Cancelada,advisor.hellena@ficticio-ma.com.br
+5795,Monteiro Albuquerque - ME,Sales,Saúde,371330452.78,2025-12-06,Análise de NDA,advisor.diogo@ficticio-ma.com.br
+5796,Araújo Caldeira - ME,Costa Borges - ME,Finanças,149876208.51,2023-09-29,Em Due Diligence,advisor.caio@ficticio-ma.com.br
+5797,Nunes,da Rosa,Finanças,220081608.74,2024-04-07,Análise de NDA,advisor.natália@ficticio-ma.com.br
+5798,Novais,Câmara,Tecnologia,188532734.72,2023-09-19,Concluída,advisor.ana vitória@ficticio-ma.com.br
+5799,da Mota,Carvalho,Varejo,293797201.84,2026-06-23,Em Due Diligence,advisor.henry@ficticio-ma.com.br
+5800,Silveira,Duarte da Mota S/A,Saúde,272323648.44,2024-09-10,Cancelada,advisor.noah@ficticio-ma.com.br
+5801,Abreu,Leão,Finanças,254417338.0,2024-12-18,Em Due Diligence,advisor.gustavo@ficticio-ma.com.br
+5802,Rocha,Barros,Logística,222935909.15,2025-12-25,Cancelada,advisor.ana laura@ficticio-ma.com.br
+5803,Azevedo S.A.,Monteiro - EI,Finanças,81242540.67,2025-01-27,Cancelada,advisor.marcela@ficticio-ma.com.br
+5804,Alves e Filhos,Pimenta,Finanças,93811730.31,2026-03-23,Análise de NDA,advisor.pietra@ficticio-ma.com.br
+5805,Sousa,Jesus - ME,Energia,155541417.6,2024-06-17,Cancelada,advisor.maria vitória@ficticio-ma.com.br
+5806,Andrade,Barbosa - ME,Varejo,28918534.85,2024-09-19,Análise de NDA,advisor.maria vitória@ficticio-ma.com.br
+5807,Camargo,Ferreira Costa S.A.,Logística,173582580.06,2023-11-23,Concluída,advisor.davi miguel@ficticio-ma.com.br
+5808,da Luz Nogueira S.A.,Silva,Energia,81319620.58,2024-12-20,Análise de NDA,advisor.ayla@ficticio-ma.com.br
+5809,Almeida,Melo,Saúde,477764120.44,2023-11-27,Análise de NDA,advisor.ester@ficticio-ma.com.br
+5810,Jesus,Rodrigues Andrade - EI,Logística,345412851.36,2026-03-20,Concluída,advisor.noah@ficticio-ma.com.br
+5811,Cassiano S/A,Montenegro,Energia,315640847.3,2025-08-26,Em Due Diligence,advisor.brayan@ficticio-ma.com.br
+5812,da Cruz,Vieira,Logística,18869750.5,2024-02-13,Em Due Diligence,advisor.ana julia@ficticio-ma.com.br
+5813,Cardoso,Peixoto,Finanças,224494170.5,2024-10-13,Cancelada,advisor.maria isis@ficticio-ma.com.br
+5814,Nascimento e Filhos,Marques e Filhos,Logística,497622946.18,2025-10-18,Concluída,advisor.bella@ficticio-ma.com.br
+5815,Oliveira,Silveira,Logística,53026998.03,2025-04-05,Cancelada,advisor.isis@ficticio-ma.com.br
+5816,Moraes,Rios,Varejo,155397417.44,2023-09-19,Em Due Diligence,advisor.kevin@ficticio-ma.com.br
+5817,Cavalcanti e Filhos,Gomes,Tecnologia,234336212.08,2023-12-13,Análise de NDA,advisor.vicente@ficticio-ma.com.br
+5818,Barbosa Lima S/A,Casa Grande Nogueira Ltda.,Logística,196297554.03,2025-03-13,Concluída,advisor.luara@ficticio-ma.com.br
+5819,Andrade,Campos Vargas - ME,Logística,345888140.2,2025-02-21,Concluída,advisor.maria sophia@ficticio-ma.com.br
+5820,Borges - ME,Cassiano Nascimento - EI,Varejo,280788080.95,2025-08-26,Análise de NDA,advisor.levi@ficticio-ma.com.br
+5821,Vasconcelos,Montenegro,Energia,394074305.57,2025-06-23,Análise de NDA,advisor.sabrina@ficticio-ma.com.br
+5822,Aragão Moreira e Filhos,Caldeira Brito S.A.,Energia,395159829.55,2025-02-25,Cancelada,advisor.heloísa@ficticio-ma.com.br
+5823,Ferreira - EI,Novais - ME,Finanças,392009623.57,2026-04-06,Em Due Diligence,advisor.liam@ficticio-ma.com.br
+5824,Caldeira,da Rocha,Tecnologia,370642187.22,2025-04-09,Análise de NDA,advisor.raquel@ficticio-ma.com.br
+5825,Martins da Conceição - ME,Aparecida,Energia,197808157.43,2024-03-02,Análise de NDA,advisor.ester@ficticio-ma.com.br
+5826,Marques Pereira Ltda.,Costela S/A,Tecnologia,419989930.38,2026-05-10,Análise de NDA,advisor.daniel@ficticio-ma.com.br
+5827,da Luz,Teixeira,Finanças,423366631.25,2024-03-13,Concluída,advisor.maria laura@ficticio-ma.com.br
+5828,Garcia,Ramos,Varejo,171764804.63,2025-08-19,Análise de NDA,advisor.ravy@ficticio-ma.com.br
+5829,Camargo Oliveira Ltda.,Cassiano,Varejo,76206611.23,2024-12-09,Concluída,advisor.alana@ficticio-ma.com.br
+5830,Alves - EI,Sampaio Aragão S/A,Saúde,100812464.19,2024-01-09,Análise de NDA,advisor.gabriel@ficticio-ma.com.br
+5831,Vargas S/A,da Rosa,Varejo,46644113.56,2024-11-17,Cancelada,advisor.kevin@ficticio-ma.com.br
+5832,Azevedo Montenegro Ltda.,Machado,Finanças,291071539.51,2025-12-20,Cancelada,advisor.davi lucca@ficticio-ma.com.br
+5833,Peixoto Guerra e Filhos,Costa,Energia,394102467.97,2026-05-17,Em Due Diligence,advisor.dante@ficticio-ma.com.br
+5834,Duarte Mendonça S.A.,Caldeira,Varejo,390907414.62,2026-04-27,Análise de NDA,advisor.ana laura@ficticio-ma.com.br
+5835,da Rocha,Martins,Varejo,217730243.96,2026-02-07,Em Due Diligence,advisor.matheus@ficticio-ma.com.br
+5836,da Paz,Camargo - ME,Logística,37903478.19,2023-11-10,Análise de NDA,advisor.bruna@ficticio-ma.com.br
+5837,Ribeiro,Cirino,Varejo,178039633.69,2026-02-28,Análise de NDA,advisor.esther@ficticio-ma.com.br
+5838,Porto - EI,Sousa,Energia,417845443.62,2024-03-17,Concluída,advisor.vitor hugo@ficticio-ma.com.br
+5839,Campos - ME,Castro,Tecnologia,59239968.32,2023-11-17,Cancelada,advisor.arthur@ficticio-ma.com.br
+5840,Mendes,Novais,Varejo,481962447.05,2026-04-29,Cancelada,advisor.ana liz@ficticio-ma.com.br
+5841,Santos - EI,da Mata,Energia,164054624.48,2023-12-23,Cancelada,advisor.ana lívia@ficticio-ma.com.br
+5842,Cavalcanti,Rocha,Saúde,281915346.53,2025-03-01,Em Due Diligence,advisor.luana@ficticio-ma.com.br
+5843,Cirino,Barros,Varejo,407086016.8,2026-01-31,Análise de NDA,advisor.joão miguel@ficticio-ma.com.br
+5844,Mendes,Araújo Ltda.,Finanças,69562613.83,2025-03-27,Cancelada,advisor.joão guilherme@ficticio-ma.com.br
+5845,Cunha S.A.,Silveira - EI,Logística,366279443.63,2024-04-28,Cancelada,advisor.ana júlia@ficticio-ma.com.br
+5846,Teixeira Jesus S/A,Souza S.A.,Logística,94519998.2,2024-09-10,Concluída,advisor.benjamin@ficticio-ma.com.br
+5847,Nunes Costela - EI,Barros Ramos - ME,Logística,315119304.23,2024-08-17,Análise de NDA,advisor.ana clara@ficticio-ma.com.br
+5848,da Cruz Siqueira Ltda.,Araújo Novais - EI,Saúde,440963006.86,2025-10-12,Análise de NDA,advisor.heitor@ficticio-ma.com.br
+5849,Monteiro Ltda.,Cassiano Câmara e Filhos,Varejo,203985707.97,2024-11-19,Concluída,advisor.emanuel@ficticio-ma.com.br
+5850,Garcia,Alves Albuquerque - ME,Varejo,66292666.42,2024-03-09,Em Due Diligence,advisor.yuri@ficticio-ma.com.br
+5851,Camargo,Pinto,Energia,145190340.93,2025-03-06,Análise de NDA,advisor.gustavo henrique@ficticio-ma.com.br
+5852,Borges,Pacheco Ltda.,Varejo,18913704.36,2024-03-22,Cancelada,advisor.catarina@ficticio-ma.com.br
+5853,Brito Caldeira - ME,Pires S/A,Finanças,340849862.97,2025-02-17,Concluída,advisor.ana laura@ficticio-ma.com.br
+5854,Melo da Cruz Ltda.,Pimenta Ltda.,Varejo,499180202.93,2023-10-23,Em Due Diligence,advisor.emanuel@ficticio-ma.com.br
+5855,Jesus,Leão Dias - EI,Tecnologia,403289380.21,2024-05-16,Cancelada,advisor.aurora@ficticio-ma.com.br
+5856,Pimenta Vasconcelos Ltda.,Viana Dias e Filhos,Saúde,147367806.75,2024-07-25,Análise de NDA,advisor.maria helena@ficticio-ma.com.br
+5857,Cassiano,Silva Ltda.,Tecnologia,106129608.54,2024-04-01,Análise de NDA,advisor.benjamin@ficticio-ma.com.br
+5858,Cirino,Sousa Ribeiro Ltda.,Energia,135771043.31,2026-06-21,Concluída,advisor.luiz miguel@ficticio-ma.com.br
+5859,Peixoto e Filhos,da Paz Ltda.,Saúde,189758513.01,2024-05-24,Cancelada,advisor.vitor gabriel@ficticio-ma.com.br
+5860,Peixoto Cassiano e Filhos,Vasconcelos,Tecnologia,299763425.83,2025-01-17,Análise de NDA,advisor.natália@ficticio-ma.com.br
+5861,Guerra,Ribeiro,Tecnologia,412925662.5,2023-11-10,Concluída,advisor.maysa@ficticio-ma.com.br
+5862,Ribeiro,Cavalcante Fernandes S/A,Saúde,131166123.37,2026-04-23,Análise de NDA,advisor.letícia@ficticio-ma.com.br
+5863,Viana,Rodrigues,Varejo,368756403.87,2024-08-23,Cancelada,advisor.valentina@ficticio-ma.com.br
+5864,da Rocha,Rios,Varejo,14342781.95,2025-12-12,Em Due Diligence,advisor.calebe@ficticio-ma.com.br
+5865,Moura,Duarte,Finanças,216982332.57,2024-10-29,Cancelada,advisor.maria cecília@ficticio-ma.com.br
+5866,Mendonça,Brito S.A.,Varejo,418573206.67,2025-10-10,Concluída,advisor.joaquim@ficticio-ma.com.br
+5867,Vargas,Santos da Costa e Filhos,Tecnologia,404114596.76,2026-05-23,Em Due Diligence,advisor.luiz gustavo@ficticio-ma.com.br
+5868,da Cunha,Macedo,Energia,401857255.87,2026-04-03,Em Due Diligence,advisor.arthur@ficticio-ma.com.br
+5869,Ramos,Carvalho,Finanças,334640950.1,2026-08-16,Em Due Diligence,advisor.isaac@ficticio-ma.com.br
+5870,Machado,Ribeiro Mendonça S/A,Finanças,59453863.6,2026-08-20,Cancelada,advisor.luiz otávio@ficticio-ma.com.br
+5871,Pereira,da Cunha Oliveira - ME,Finanças,411244297.69,2025-12-25,Cancelada,advisor.giovanna@ficticio-ma.com.br
+5872,Barbosa,Barros,Tecnologia,413937791.65,2025-03-23,Cancelada,advisor.laís@ficticio-ma.com.br
+5873,Aragão da Mota S/A,Costa,Tecnologia,262558635.15,2025-09-04,Em Due Diligence,advisor.jade@ficticio-ma.com.br
+5874,Oliveira da Mata S/A,Azevedo,Saúde,432203586.69,2025-01-19,Concluída,advisor.lucca@ficticio-ma.com.br
+5875,Rios,Mendes S/A,Saúde,24409413.88,2024-07-29,Cancelada,advisor.camila@ficticio-ma.com.br
+5876,Castro - ME,Freitas Cirino S/A,Tecnologia,205488390.84,2024-08-23,Em Due Diligence,advisor.kaique@ficticio-ma.com.br
+5877,Ribeiro,Camargo,Finanças,372867455.81,2026-02-04,Concluída,advisor.maria cecília@ficticio-ma.com.br
+5878,Vasconcelos Siqueira S/A,Vasconcelos - EI,Energia,72188219.17,2026-02-19,Cancelada,advisor.antonella@ficticio-ma.com.br
+5879,Mendonça - ME,Machado,Logística,100353222.85,2026-08-20,Concluída,advisor.benicio@ficticio-ma.com.br
+5880,Sampaio S.A.,Leão,Energia,268106939.1,2026-01-06,Concluída,advisor.leandro@ficticio-ma.com.br
+5881,Siqueira,Camargo - ME,Finanças,386973434.93,2025-10-12,Em Due Diligence,advisor.leandro@ficticio-ma.com.br
+5882,Dias S.A.,Sampaio Ltda.,Finanças,94740681.86,2024-03-01,Concluída,advisor.letícia@ficticio-ma.com.br
+5883,Nogueira,Siqueira,Energia,314092241.8,2026-09-07,Concluída,advisor.joão miguel@ficticio-ma.com.br
+5884,Nunes,Rezende Cardoso Ltda.,Tecnologia,315700424.41,2024-10-09,Em Due Diligence,advisor.joão felipe@ficticio-ma.com.br
+5885,Mendonça S.A.,Siqueira,Tecnologia,99648299.84,2024-02-25,Cancelada,advisor.bernardo@ficticio-ma.com.br
+5886,Ferreira,Cardoso,Saúde,297437061.58,2025-05-25,Concluída,advisor.bernardo@ficticio-ma.com.br
+5887,Gonçalves,Macedo e Filhos,Tecnologia,260981921.54,2026-03-19,Análise de NDA,advisor.maria cecília@ficticio-ma.com.br
+5888,Cavalcanti Montenegro S/A,Siqueira Melo - EI,Varejo,28716716.69,2026-04-09,Concluída,advisor.alexandre@ficticio-ma.com.br
+5889,Brito S/A,Cavalcanti - EI,Varejo,419165425.79,2026-01-30,Cancelada,advisor.pedro miguel@ficticio-ma.com.br
+5890,Sousa,Farias,Tecnologia,303994412.18,2026-06-08,Em Due Diligence,advisor.augusto@ficticio-ma.com.br
+5891,Cardoso S.A.,Pinto,Energia,303944254.15,2024-02-15,Em Due Diligence,advisor.carolina@ficticio-ma.com.br
+5892,Pacheco,Viana,Logística,393023269.18,2024-12-01,Cancelada,advisor.maria alice@ficticio-ma.com.br
+5893,Sampaio Pereira - EI,Câmara,Tecnologia,152471736.16,2025-06-11,Concluída,advisor.ísis@ficticio-ma.com.br
+5894,Lopes,Gonçalves Ltda.,Finanças,129200150.03,2026-02-05,Em Due Diligence,advisor.daniel@ficticio-ma.com.br
+5895,Mendes,Montenegro das Neves - EI,Logística,335527609.54,2026-06-17,Cancelada,advisor.theodoro@ficticio-ma.com.br
+5896,Pacheco,Fonseca Santos e Filhos,Finanças,388399698.24,2024-05-08,Em Due Diligence,advisor.murilo@ficticio-ma.com.br
+5897,Pires - ME,Teixeira,Logística,95287534.74,2026-06-05,Concluída,advisor.clarice@ficticio-ma.com.br
+5898,Caldeira da Mota e Filhos,Melo,Varejo,372290164.89,2023-09-30,Análise de NDA,advisor.antônio@ficticio-ma.com.br
+5899,Aragão,Pimenta,Logística,225532954.06,2024-10-14,Concluída,advisor.valentina@ficticio-ma.com.br
+5900,Brito,Cavalcanti,Tecnologia,126780558.94,2023-12-23,Análise de NDA,advisor.davi lucca@ficticio-ma.com.br
+5901,Nunes,Martins Mendes S.A.,Finanças,256695138.29,2026-05-08,Análise de NDA,advisor.sarah@ficticio-ma.com.br
+5902,Albuquerque,Borges,Finanças,329209969.88,2026-05-17,Em Due Diligence,advisor.juliana@ficticio-ma.com.br
+5903,Barbosa,Fogaça S/A,Varejo,264045021.01,2026-09-13,Cancelada,advisor.sabrina@ficticio-ma.com.br
+5904,Cavalcanti - EI,Albuquerque - ME,Saúde,292281832.94,2025-04-01,Concluída,advisor.emanuelly@ficticio-ma.com.br
+5905,Rios Marques S/A,Aparecida e Filhos,Logística,268831226.64,2025-07-03,Em Due Diligence,advisor.matteo@ficticio-ma.com.br
+5906,Caldeira,Siqueira Fogaça S/A,Saúde,102248956.71,2026-06-05,Concluída,advisor.fernando@ficticio-ma.com.br
+5907,Gonçalves,Moreira,Finanças,272471538.26,2024-09-09,Análise de NDA,advisor.luiz henrique@ficticio-ma.com.br
+5908,Sampaio - ME,Viana Ltda.,Tecnologia,342659367.09,2025-02-09,Concluída,advisor.maria júlia@ficticio-ma.com.br
+5909,Azevedo,Rezende,Varejo,175495471.43,2025-05-31,Cancelada,advisor.allana@ficticio-ma.com.br
+5910,Cirino,Freitas Monteiro S.A.,Energia,367011720.15,2023-11-02,Análise de NDA,advisor.luiz miguel@ficticio-ma.com.br
+5911,Pires,Cirino,Tecnologia,487538305.26,2026-05-19,Análise de NDA,advisor.kevin@ficticio-ma.com.br
+5912,Aparecida - EI,Farias,Logística,477380745.07,2026-01-18,Concluída,advisor.thiago@ficticio-ma.com.br
+5913,Viana e Filhos,Vargas Araújo e Filhos,Varejo,135966195.24,2026-05-15,Concluída,advisor.maria júlia@ficticio-ma.com.br
+5914,Cardoso Garcia - ME,Sampaio,Varejo,462159430.29,2023-12-20,Cancelada,advisor.fernando@ficticio-ma.com.br
+5915,Fogaça Lopes Ltda.,Santos,Finanças,223876123.22,2024-10-17,Análise de NDA,advisor.kevin@ficticio-ma.com.br
+5916,da Cunha,Teixeira S/A,Finanças,167060426.28,2025-10-17,Concluída,advisor.luiz otávio@ficticio-ma.com.br
+5917,Ribeiro Ltda.,Câmara,Tecnologia,190648032.32,2026-07-09,Cancelada,advisor.maria sophia@ficticio-ma.com.br
+5918,Abreu,Mendonça Sousa S/A,Logística,171869539.25,2024-08-11,Análise de NDA,advisor.guilherme@ficticio-ma.com.br
+5919,Correia,Ramos,Energia,265937208.76,2024-06-18,Análise de NDA,advisor.sara@ficticio-ma.com.br
+5920,Araújo,das Neves,Tecnologia,420273156.24,2025-07-31,Em Due Diligence,advisor.vitor gabriel@ficticio-ma.com.br
+5921,Moura - ME,Nascimento Garcia e Filhos,Tecnologia,36153563.0,2024-08-05,Em Due Diligence,advisor.maria helena@ficticio-ma.com.br
+5922,Andrade,Pinto S/A,Finanças,52294961.61,2023-11-30,Cancelada,advisor.caleb@ficticio-ma.com.br
+5923,Ribeiro,Machado Azevedo - EI,Logística,221717421.04,2026-08-19,Análise de NDA,advisor.marcos vinicius@ficticio-ma.com.br
+5924,Pinto,Viana,Tecnologia,476817062.79,2025-11-04,Cancelada,advisor.marina@ficticio-ma.com.br
+5925,Jesus e Filhos,Borges,Energia,476252645.57,2025-04-24,Análise de NDA,advisor.maria helena@ficticio-ma.com.br
+5926,Oliveira,Sales,Finanças,379258289.0,2024-04-20,Concluída,advisor.enrico@ficticio-ma.com.br
+5927,Barros Ltda.,Camargo,Finanças,488944987.29,2026-06-01,Concluída,advisor.vinícius@ficticio-ma.com.br
+5928,Almeida,Machado,Tecnologia,256812278.39,2025-09-05,Em Due Diligence,advisor.luiza@ficticio-ma.com.br
+5929,Câmara,Aragão Barros S/A,Saúde,217396067.04,2023-11-20,Em Due Diligence,advisor.joão miguel@ficticio-ma.com.br
+5930,Araújo Montenegro S.A.,Carvalho,Finanças,347908328.96,2023-10-19,Análise de NDA,advisor.isaac@ficticio-ma.com.br
+5931,Sousa Albuquerque S/A,Cassiano Pacheco S/A,Finanças,53840964.71,2025-06-22,Análise de NDA,advisor.joão guilherme@ficticio-ma.com.br
+5932,Martins,Cassiano,Tecnologia,368092419.77,2025-02-12,Cancelada,advisor.heloisa@ficticio-ma.com.br
+5933,Leão,da Luz,Saúde,19233919.68,2026-04-30,Análise de NDA,advisor.benjamin@ficticio-ma.com.br
+5934,Ramos S.A.,da Rosa,Tecnologia,266325019.63,2024-03-25,Em Due Diligence,advisor.ana clara@ficticio-ma.com.br
+5935,da Cruz S/A,Gomes,Saúde,9194533.69,2026-03-14,Cancelada,advisor.luísa@ficticio-ma.com.br
+5936,Alves,Pires,Saúde,254650091.4,2024-05-10,Análise de NDA,advisor.maysa@ficticio-ma.com.br
+5937,Aparecida Pinto S/A,Cavalcante,Varejo,55186467.03,2026-05-05,Em Due Diligence,advisor.stephany@ficticio-ma.com.br
+5938,Pires Novais - ME,Moraes S.A.,Varejo,208420356.93,2024-03-24,Concluída,advisor.ana julia@ficticio-ma.com.br
+5939,da Costa,Montenegro Ltda.,Saúde,450192974.51,2026-04-11,Cancelada,advisor.luiz felipe@ficticio-ma.com.br
+5940,Gonçalves,Teixeira Borges Ltda.,Energia,298574721.96,2024-11-12,Cancelada,advisor.laura@ficticio-ma.com.br
+5941,Melo S.A.,Silva Caldeira Ltda.,Energia,303854833.16,2024-08-12,Análise de NDA,advisor.joão lucas@ficticio-ma.com.br
+5942,Cavalcante Ltda.,Sousa,Finanças,14953765.4,2024-05-13,Análise de NDA,advisor.joão vitor@ficticio-ma.com.br
+5943,Moura,Carvalho,Tecnologia,80092642.12,2025-04-30,Cancelada,advisor.zoe@ficticio-ma.com.br
+5944,Cardoso,Martins,Finanças,235581404.39,2023-12-18,Concluída,advisor.bryan@ficticio-ma.com.br
+5945,da Paz,Ribeiro Duarte - ME,Varejo,233000048.12,2023-11-08,Em Due Diligence,advisor.dante@ficticio-ma.com.br
+5946,Garcia Silva e Filhos,Lima Vieira Ltda.,Saúde,190382684.22,2026-09-18,Concluída,advisor.cecília@ficticio-ma.com.br
+5947,Mendonça,Duarte Costa S/A,Saúde,194577348.3,2026-01-03,Cancelada,advisor.guilherme@ficticio-ma.com.br
+5948,da Conceição,Barros,Tecnologia,209358936.27,2024-02-06,Análise de NDA,advisor.heitor@ficticio-ma.com.br
+5949,Câmara S/A,Almeida,Energia,250868526.2,2026-04-02,Cancelada,advisor.luiz otávio@ficticio-ma.com.br
+5950,Ribeiro,Nascimento Ltda.,Finanças,304147306.16,2026-02-27,Cancelada,advisor.rafaela@ficticio-ma.com.br
+5951,Ribeiro,Monteiro Duarte S/A,Finanças,462299656.3,2024-03-13,Cancelada,advisor.gabriela@ficticio-ma.com.br
+5952,Gonçalves,Santos - ME,Varejo,12511889.9,2024-07-24,Concluída,advisor.maria luísa@ficticio-ma.com.br
+5953,da Cunha,Camargo Porto S/A,Energia,486089725.72,2024-05-27,Concluída,advisor.luiz henrique@ficticio-ma.com.br
+5954,Pimenta Freitas S.A.,Mendonça e Filhos,Finanças,418433605.38,2024-02-17,Cancelada,advisor.maria cecília@ficticio-ma.com.br
+5955,Leão,Nogueira,Energia,226731653.68,2025-12-16,Cancelada,advisor.gabriel@ficticio-ma.com.br
+5956,da Rocha S.A.,Lopes,Energia,180256644.79,2024-03-29,Cancelada,advisor.luiz otávio@ficticio-ma.com.br
+5957,Cavalcante - ME,Casa Grande,Energia,447144855.98,2025-12-01,Análise de NDA,advisor.igor@ficticio-ma.com.br
+5958,Lopes,Azevedo,Saúde,189152199.6,2026-03-19,Concluída,advisor.joão lucas@ficticio-ma.com.br
+5959,Novais,Vieira Garcia S.A.,Logística,114894798.93,2023-11-25,Concluída,advisor.heloisa@ficticio-ma.com.br
+5960,Melo,Garcia,Logística,141621736.97,2024-04-14,Análise de NDA,advisor.luiz gustavo@ficticio-ma.com.br
+5961,Barbosa,Pastor,Tecnologia,60495414.37,2025-09-07,Concluída,advisor.henry gabriel@ficticio-ma.com.br
+5962,Montenegro Macedo S.A.,Siqueira,Varejo,299433028.7,2025-08-13,Análise de NDA,advisor.theodoro@ficticio-ma.com.br
+5963,Aragão S/A,Marques - EI,Logística,378702559.49,2023-10-25,Análise de NDA,advisor.luiz henrique@ficticio-ma.com.br
+5964,Barros,Siqueira,Logística,248613598.79,2025-12-05,Cancelada,advisor.liam@ficticio-ma.com.br
+5965,Freitas,Albuquerque,Energia,248097720.47,2024-03-07,Cancelada,advisor.eloah@ficticio-ma.com.br
+5966,Viana,Albuquerque,Logística,289650404.48,2024-08-15,Concluída,advisor.miguel@ficticio-ma.com.br
+5967,Abreu,Peixoto,Saúde,107906838.44,2026-07-29,Análise de NDA,advisor.alana@ficticio-ma.com.br
+5968,Lima,Moreira,Energia,318581695.91,2025-12-07,Análise de NDA,advisor.rael@ficticio-ma.com.br
+5969,Freitas,Mendes,Logística,102255710.31,2025-05-29,Cancelada,advisor.liz@ficticio-ma.com.br
+5970,Santos,Siqueira Rezende e Filhos,Logística,80294771.31,2023-12-24,Concluída,advisor.augusto@ficticio-ma.com.br
+5971,Castro,Dias,Saúde,449270571.56,2024-03-01,Concluída,advisor.luara@ficticio-ma.com.br
+5972,Abreu Abreu - ME,Nunes,Logística,445859734.05,2024-09-10,Em Due Diligence,advisor.maria luísa@ficticio-ma.com.br
+5973,Rodrigues,da Paz,Finanças,116327229.98,2024-10-28,Cancelada,advisor.antony@ficticio-ma.com.br
+5974,Dias Sá - EI,Sá,Energia,414388157.05,2025-12-10,Em Due Diligence,advisor.milena@ficticio-ma.com.br
+5975,Casa Grande,Nunes Moreira e Filhos,Finanças,286616362.28,2025-11-19,Análise de NDA,advisor.antonella@ficticio-ma.com.br
+5976,Brito Correia - ME,Pires,Finanças,110543785.94,2025-10-16,Cancelada,advisor.vitor hugo@ficticio-ma.com.br
+5977,Lima e Filhos,Montenegro,Energia,297262896.7,2024-09-21,Em Due Diligence,advisor.maria liz@ficticio-ma.com.br
+5978,Vargas,Moraes,Logística,368506993.35,2026-03-01,Cancelada,advisor.aurora@ficticio-ma.com.br
+5979,da Cunha,Lima S.A.,Finanças,270011864.5,2024-01-11,Análise de NDA,advisor.otto@ficticio-ma.com.br
+5980,Rezende,Dias,Energia,422987857.9,2025-04-16,Em Due Diligence,advisor.daniela@ficticio-ma.com.br
+5981,da Costa,Nunes,Finanças,492894419.56,2025-10-29,Análise de NDA,advisor.henry gabriel@ficticio-ma.com.br
+5982,Nascimento,Pacheco Castro - ME,Varejo,102256093.44,2024-03-16,Cancelada,advisor.gustavo henrique@ficticio-ma.com.br
+5983,Novaes Nunes e Filhos,da Cruz,Energia,169973420.56,2025-07-04,Concluída,advisor.heitor@ficticio-ma.com.br
+5984,Camargo,das Neves e Filhos,Energia,442072275.49,2024-10-03,Em Due Diligence,advisor.isabel@ficticio-ma.com.br
+5985,Cavalcanti,Mendonça da Cruz - EI,Energia,219606768.24,2024-06-30,Em Due Diligence,advisor.helena@ficticio-ma.com.br
+5986,da Costa da Rosa S/A,Garcia Pastor e Filhos,Varejo,434735905.76,2025-07-16,Cancelada,advisor.yan@ficticio-ma.com.br
+5987,da Paz e Filhos,da Paz Sampaio Ltda.,Saúde,335502879.27,2024-10-30,Análise de NDA,advisor.vitor gabriel@ficticio-ma.com.br
+5988,Barbosa,da Costa Campos - ME,Varejo,245166516.56,2025-10-28,Análise de NDA,advisor.igor@ficticio-ma.com.br
+5989,Albuquerque,Campos - ME,Logística,400745303.55,2024-10-15,Concluída,advisor.liam@ficticio-ma.com.br
+5990,Almeida,Aparecida Pimenta e Filhos,Tecnologia,54287316.92,2023-11-26,Concluída,advisor.marcelo@ficticio-ma.com.br
+5991,Oliveira,da Luz Garcia - EI,Varejo,160467521.55,2026-09-04,Concluída,advisor.augusto@ficticio-ma.com.br
+5992,Nogueira,Borges,Varejo,210983729.3,2025-02-18,Concluída,advisor.raul@ficticio-ma.com.br
+5993,Dias,Pacheco S/A,Varejo,186769676.27,2025-10-07,Cancelada,advisor.luísa@ficticio-ma.com.br
+5994,Cunha da Costa - ME,Cavalcante Aparecida e Filhos,Finanças,190416708.35,2023-11-07,Em Due Diligence,advisor.ana sophia@ficticio-ma.com.br
+5995,Pires,Costela,Saúde,488128355.24,2025-03-19,Concluída,advisor.ana laura@ficticio-ma.com.br
+5996,da Paz,Cavalcante Viana S.A.,Logística,76314860.59,2023-11-17,Concluída,advisor.luiz otávio@ficticio-ma.com.br
+5997,Câmara,Martins Ribeiro - EI,Energia,18871162.99,2026-03-20,Análise de NDA,advisor.maria helena@ficticio-ma.com.br
+5998,da Costa Farias S/A,da Mota,Saúde,433021914.74,2026-07-02,Em Due Diligence,advisor.pedro henrique@ficticio-ma.com.br
+5999,Lima S.A.,Casa Grande das Neves S/A,Finanças,445138282.29,2023-10-16,Em Due Diligence,advisor.rafaela@ficticio-ma.com.br
+6000,Albuquerque Sales Ltda.,Jesus,Tecnologia,408947554.05,2026-01-25,Em Due Diligence,advisor.danilo@ficticio-ma.com.br
